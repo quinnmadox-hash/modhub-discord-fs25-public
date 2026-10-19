@@ -1,0 +1,34 @@
+name: Novedades ModHub FS25
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: modhub-fs25
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Revisar ModHub y publicar novedades
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python3 modhub_discord.py
+      - name: Guardar los mods ya vistos
+        run: |
+          if [ -f seen.json ]; then
+            git add seen.json
+            if ! git diff --cached --quiet; then
+              git config user.name "github-actions[bot]"
+              git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+              git commit -m "Actualizar mods vistos"
+              git push
+            fi
+          fi
