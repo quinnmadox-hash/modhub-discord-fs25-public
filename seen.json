@@ -27,6 +27,7 @@
     "311930",
     "311932",
     "312156",
+    "312417",
     "313385",
     "313639",
     "313740",
@@ -421,8 +422,9 @@
       "version": "1.1.0.2"
     },
     "303707": {
+      "last_marker": "UPDATE",
       "title": "Park Vehicle",
-      "version": "1.1.1.0"
+      "version": "1.1.2.0"
     },
     "303729": {
       "last_marker": "",
@@ -460,7 +462,7 @@
     "307474": {
       "last_marker": "UPDATE",
       "title": "Real Dirt Color",
-      "version": "1.2.0.0"
+      "version": "1.2.0.1"
     },
     "308465": {
       "title": "Machine Hall",
@@ -529,6 +531,11 @@
     "312156": {
       "title": "Farm Vehicle Shop",
       "version": "1.0.1.0"
+    },
+    "312417": {
+      "last_marker": "UPDATE",
+      "title": "New Bartelshagen",
+      "version": "2.0.0.0"
     },
     "313385": {
       "last_marker": "",
@@ -1277,7 +1284,7 @@
     "370461": {
       "last_marker": "UPDATE",
       "title": "Realistic Crop Rotation",
-      "version": "1.1.0.0"
+      "version": "1.1.0.1"
     },
     "370463": {
       "last_marker": "",
@@ -1599,9 +1606,9 @@
       "version": "1.0.0.0"
     },
     "372914": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Tyrolean Whitecreek Valley",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "372955": {
       "last_marker": "",
@@ -1683,9 +1690,9 @@
       "version": "1.0.0.0"
     },
     "373260": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "John Deere 1210G",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "373274": {
       "title": "Small Balkan Pig Barn",
