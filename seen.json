@@ -171,6 +171,7 @@
     "365563",
     "365656",
     "365658",
+    "365898",
     "365957",
     "366174",
     "366549",
@@ -258,6 +259,7 @@
     "371995",
     "372008",
     "372019",
+    "372022",
     "372063",
     "372099",
     "372130",
@@ -274,6 +276,7 @@
     "372312",
     "372319",
     "372370",
+    "372445",
     "372450",
     "372458",
     "372499",
@@ -303,6 +306,7 @@
     "373118",
     "373133",
     "373174",
+    "373175",
     "373176",
     "373181",
     "373197",
@@ -330,6 +334,7 @@
     "373590",
     "373601",
     "373637",
+    "373678",
     "373704",
     "373750",
     "373783",
@@ -384,6 +389,7 @@
     "374500",
     "374533",
     "374542",
+    "374566",
     "374574",
     "374583",
     "374602",
@@ -404,6 +410,7 @@
     "375034",
     "375044",
     "375045",
+    "375113",
     "375170",
     "375184",
     "375249",
@@ -413,6 +420,7 @@
     "375360",
     "375419",
     "375449",
+    "375472",
     "375504",
     "375533",
     "375571",
@@ -444,10 +452,12 @@
     "376320",
     "376392",
     "376397",
+    "376405",
     "376409",
     "376484",
     "376639",
     "376806",
+    "376867",
     "376896",
     "376898",
     "377160",
@@ -457,7 +467,8 @@
     "377438",
     "377581",
     "377721",
-    "378044"
+    "378044",
+    "378923"
   ],
   "mods": {
     "303389": {
@@ -1261,6 +1272,11 @@
       "title": "MAN TGS Fliegl Bale Platform",
       "version": "1.0.0.2"
     },
+    "365898": {
+      "last_marker": "UPDATE",
+      "title": "Improved Controls Menu",
+      "version": "1.0.0.2"
+    },
     "365957": {
       "last_marker": "",
       "title": "Manitou MTL 635/737",
@@ -1672,6 +1688,11 @@
       "title": "Swath Router",
       "version": "1.0.0.0"
     },
+    "372022": {
+      "last_marker": "NEW",
+      "title": "Small Coal Extractor",
+      "version": "1.0.0.0"
+    },
     "372063": {
       "last_marker": "",
       "title": "PTO Load System",
@@ -1744,6 +1765,11 @@
     "372370": {
       "last_marker": "",
       "title": "Farm Limit Manager",
+      "version": "1.0.0.0"
+    },
+    "372445": {
+      "last_marker": "NEW",
+      "title": "Mid Sugar Mill",
       "version": "1.0.0.0"
     },
     "372450": {
@@ -1883,6 +1909,11 @@
       "title": "Lizard T 1914 Caravan",
       "version": "1.0.0.1"
     },
+    "373175": {
+      "last_marker": "NEW",
+      "title": "Unia FM700 3/D",
+      "version": "1.0.0.0"
+    },
     "373176": {
       "last_marker": "UPDATE",
       "title": "Wooden Farm Storage Pack",
@@ -2007,6 +2038,11 @@
     "373637": {
       "last_marker": "NEW",
       "title": "Capacity Upgrade",
+      "version": "1.0.0.0"
+    },
+    "373678": {
+      "last_marker": "NEW",
+      "title": "Oedberg At The Tegernsee",
       "version": "1.0.0.0"
     },
     "373704": {
@@ -2275,6 +2311,11 @@
       "title": "Open Pastures",
       "version": "1.0.0.0"
     },
+    "374566": {
+      "last_marker": "NEW",
+      "title": "Plastic Construction Barriers",
+      "version": "1.0.0.0"
+    },
     "374574": {
       "title": "Pack Bus Stop",
       "version": "1.0.0.0"
@@ -2371,6 +2412,11 @@
       "title": "Construction Grid",
       "version": "1.0.0.0"
     },
+    "375113": {
+      "last_marker": "NEW",
+      "title": "Perwolf TrailerLight",
+      "version": "1.0.0.0"
+    },
     "375170": {
       "last_marker": "",
       "title": "Flussheim",
@@ -2414,6 +2460,11 @@
     "375449": {
       "last_marker": "NEW",
       "title": "Old Blue Metal Gate",
+      "version": "1.0.0.0"
+    },
+    "375472": {
+      "last_marker": "NEW",
+      "title": "Bunker Silo Pack",
       "version": "1.0.0.0"
     },
     "375504": {
@@ -2569,6 +2620,11 @@
       "title": "Massey Ferguson Beta 7360",
       "version": "1.0.0.0"
     },
+    "376405": {
+      "last_marker": "NEW",
+      "title": "No Credit Limit",
+      "version": "1.0.0.0"
+    },
     "376409": {
       "last_marker": "",
       "title": "Chevance Koloss 320",
@@ -2587,6 +2643,11 @@
     "376806": {
       "last_marker": "NEW",
       "title": "Saphir MGS 300",
+      "version": "1.0.0.0"
+    },
+    "376867": {
+      "last_marker": "NEW",
+      "title": "Schuitemaker SIWA 720",
       "version": "1.0.0.0"
     },
     "376896": {
@@ -2637,6 +2698,11 @@
     "378044": {
       "last_marker": "NEW",
       "title": "Production Revamp",
+      "version": "1.0.0.0"
+    },
+    "378923": {
+      "last_marker": "NEW",
+      "title": "Precision Farming Liquid Lime Fix",
       "version": "1.0.0.0"
     }
   }
