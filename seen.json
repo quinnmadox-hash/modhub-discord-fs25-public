@@ -10,6 +10,7 @@
     "306056",
     "306289",
     "306765",
+    "306999",
     "307374",
     "307431",
     "307472",
@@ -59,6 +60,7 @@
     "324580",
     "324842",
     "326805",
+    "326824",
     "326870",
     "326908",
     "327528",
@@ -110,6 +112,7 @@
     "348813",
     "349039",
     "349449",
+    "350631",
     "351118",
     "351136",
     "351326",
@@ -131,6 +134,7 @@
     "355852",
     "355980",
     "355997",
+    "356022",
     "356398",
     "356681",
     "356704",
@@ -153,6 +157,7 @@
     "361360",
     "361618",
     "361688",
+    "361936",
     "361940",
     "361963",
     "362071",
@@ -176,6 +181,7 @@
     "366174",
     "366549",
     "366585",
+    "366594",
     "366676",
     "366681",
     "366793",
@@ -189,6 +195,7 @@
     "367570",
     "367607",
     "367614",
+    "367754",
     "368021",
     "368051",
     "368184",
@@ -202,6 +209,7 @@
     "369011",
     "369067",
     "369086",
+    "369342",
     "369346",
     "369544",
     "369583",
@@ -226,6 +234,7 @@
     "370585",
     "370593",
     "370596",
+    "370598",
     "370599",
     "370623",
     "370655",
@@ -239,6 +248,7 @@
     "371300",
     "371320",
     "371344",
+    "371386",
     "371432",
     "371435",
     "371436",
@@ -285,6 +295,7 @@
     "372579",
     "372613",
     "372625",
+    "372700",
     "372705",
     "372742",
     "372773",
@@ -320,6 +331,7 @@
     "373329",
     "373331",
     "373346",
+    "373360",
     "373366",
     "373412",
     "373421",
@@ -368,6 +380,7 @@
     "374157",
     "374171",
     "374186",
+    "374198",
     "374214",
     "374224",
     "374240",
@@ -396,6 +409,7 @@
     "374628",
     "374666",
     "374673",
+    "374679",
     "374691",
     "374741",
     "374844",
@@ -419,23 +433,30 @@
     "375261",
     "375360",
     "375419",
+    "375432",
     "375449",
     "375472",
     "375504",
     "375533",
     "375571",
     "375583",
+    "375589",
     "375622",
     "375655",
     "375666",
+    "375679",
+    "375680",
     "375742",
     "375823",
+    "375844",
     "375849",
     "375902",
     "375904",
     "375914",
     "375917",
     "375968",
+    "376046",
+    "376048",
     "376132",
     "376137",
     "376150",
@@ -443,6 +464,7 @@
     "376212",
     "376230",
     "376231",
+    "376251",
     "376292",
     "376293",
     "376294",
@@ -460,6 +482,7 @@
     "376867",
     "376896",
     "376898",
+    "376956",
     "377160",
     "377259",
     "377317",
@@ -468,6 +491,8 @@
     "377581",
     "377721",
     "378044",
+    "378382",
+    "378750",
     "378923"
   ],
   "mods": {
@@ -514,6 +539,11 @@
       "last_marker": "",
       "title": "Fendt 700 Vario Series",
       "version": "1.5.0.0"
+    },
+    "306999": {
+      "last_marker": "UPDATE",
+      "title": "Rolmako U436 4m/4.5m Pack",
+      "version": "1.0.0.5"
     },
     "307374": {
       "title": "Krone Baler Pack",
@@ -746,6 +776,11 @@
       "last_marker": "UPDATE",
       "title": "Massey Ferguson SD-2",
       "version": "1.3.0.0"
+    },
+    "326824": {
+      "last_marker": "UPDATE",
+      "title": "North German Country",
+      "version": "2.0.0.3"
     },
     "326870": {
       "title": "Lizard Multipurpose Sheds",
@@ -986,6 +1021,11 @@
       "title": "Carpathian Countryside",
       "version": "1.1.2.0"
     },
+    "350631": {
+      "last_marker": "UPDATE",
+      "title": "Chip N' Wood Sawmill",
+      "version": "1.1.0.0"
+    },
     "351118": {
       "title": "Albutt Silage Bucket",
       "version": "1.2.0.0"
@@ -1081,6 +1121,11 @@
     "355997": {
       "title": "Case IH 3020 Terraflex Headers",
       "version": "1.0.0.1"
+    },
+    "356022": {
+      "last_marker": "UPDATE",
+      "title": "Automatic Milk Distribution",
+      "version": "1.1.0.0"
     },
     "356398": {
       "last_marker": "",
@@ -1185,6 +1230,11 @@
       "last_marker": "",
       "title": "Grenland",
       "version": "1.0.0.1"
+    },
+    "361936": {
+      "last_marker": "UPDATE",
+      "title": "Automatic Traffic Lights",
+      "version": "2.0.0.0"
     },
     "361940": {
       "title": "Easy Logging",
@@ -1297,6 +1347,11 @@
       "title": "CLAAS Lexion 8000 Series",
       "version": "2.0.0.0"
     },
+    "366594": {
+      "last_marker": "UPDATE",
+      "title": "Demand-Oriented Organic Application",
+      "version": "2.0.0.0"
+    },
     "366676": {
       "last_marker": "",
       "title": "Merlo MF 44.9CS-170-CVTRONIC",
@@ -1350,14 +1405,19 @@
       "version": "1.0.0.1"
     },
     "367607": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Manual Hydraulic Control",
-      "version": "1.1.0.0"
+      "version": "1.2.0.0"
     },
     "367614": {
       "last_marker": "UPDATE",
       "title": "Big Pack 1290 HDP VC",
       "version": "1.1.0.0"
+    },
+    "367754": {
+      "last_marker": "UPDATE",
+      "title": "Traffic Density Control",
+      "version": "1.0.2.0"
     },
     "368021": {
       "last_marker": "",
@@ -1422,6 +1482,11 @@
       "last_marker": "",
       "title": "Manual Paint - Per-Material Vehicle Colours",
       "version": "1.0.0.1"
+    },
+    "369342": {
+      "last_marker": "UPDATE",
+      "title": "Meadow Trails",
+      "version": "1.0.1.0"
     },
     "369346": {
       "last_marker": "",
@@ -1536,6 +1601,11 @@
       "title": "Husbandry Fence Manager",
       "version": "1.0.1.0"
     },
+    "370598": {
+      "last_marker": "NEW",
+      "title": "Big US Grain Mill",
+      "version": "1.0.0.0"
+    },
     "370599": {
       "title": "New Holland T7 HD Stage IV",
       "version": "1.0.0.1"
@@ -1596,6 +1666,11 @@
     "371344": {
       "last_marker": "",
       "title": "Lizard C-355, C-355M, C-360",
+      "version": "1.0.0.0"
+    },
+    "371386": {
+      "last_marker": "NEW",
+      "title": "Livestock Trailer Extension",
       "version": "1.0.0.0"
     },
     "371432": {
@@ -1717,9 +1792,9 @@
       "version": "1.1.1.1"
     },
     "372197": {
-      "last_marker": "NEW",
+      "last_marker": "UPDATE",
       "title": "Realistic Seeder",
-      "version": "1.0.0.0"
+      "version": "1.0.1.0"
     },
     "372216": {
       "title": "Old Shed",
@@ -1808,6 +1883,11 @@
     "372625": {
       "last_marker": "",
       "title": "Field Finder",
+      "version": "1.0.0.0"
+    },
+    "372700": {
+      "last_marker": "NEW",
+      "title": "Storage PGR 85x15",
       "version": "1.0.0.0"
     },
     "372705": {
@@ -1970,6 +2050,11 @@
     },
     "373346": {
       "title": "North American Trains",
+      "version": "1.0.0.0"
+    },
+    "373360": {
+      "last_marker": "NEW",
+      "title": "Biomass Heating Plant",
       "version": "1.0.0.0"
     },
     "373366": {
@@ -2208,6 +2293,11 @@
       "title": "Orenge Leveler",
       "version": "1.0.0.0"
     },
+    "374198": {
+      "last_marker": "NEW",
+      "title": "Göweil VARIO-Master V140",
+      "version": "1.0.0.0"
+    },
     "374214": {
       "last_marker": "",
       "title": "Bale Twine Jubilat Tytan 500",
@@ -2343,6 +2433,11 @@
       "title": "Dynamic Vehicle Camera",
       "version": "1.0.0.0"
     },
+    "374679": {
+      "last_marker": "NEW",
+      "title": "Case IH STX QuadTrac Series (US/EU)",
+      "version": "1.0.0.0"
+    },
     "374691": {
       "last_marker": "",
       "title": "Chicken Barn Large",
@@ -2457,6 +2552,11 @@
       "title": "Eastern Washington Farming",
       "version": "1.0.0.0"
     },
+    "375432": {
+      "last_marker": "NEW",
+      "title": "AgroCalc BisonSM",
+      "version": "1.0.0.0"
+    },
     "375449": {
       "last_marker": "NEW",
       "title": "Old Blue Metal Gate",
@@ -2487,6 +2587,11 @@
       "title": "PLC Leveler",
       "version": "1.0.0.0"
     },
+    "375589": {
+      "last_marker": "NEW",
+      "title": "Volvo VNX 300",
+      "version": "1.0.0.0"
+    },
     "375622": {
       "last_marker": "",
       "title": "CNH Balers",
@@ -2502,6 +2607,16 @@
       "title": "Valtra N Series",
       "version": "1.0.0.0"
     },
+    "375679": {
+      "last_marker": "NEW",
+      "title": "Moelven MB Pack",
+      "version": "1.0.0.0"
+    },
+    "375680": {
+      "last_marker": "NEW",
+      "title": "Lizard MB Pack",
+      "version": "1.0.0.0"
+    },
     "375742": {
       "last_marker": "",
       "title": "Norwegian Bigbags",
@@ -2510,6 +2625,11 @@
     "375823": {
       "last_marker": "",
       "title": "Fendt 800 Vario S4",
+      "version": "1.0.0.0"
+    },
+    "375844": {
+      "last_marker": "NEW",
+      "title": "Bavarian Barn With Cowstable",
       "version": "1.0.0.0"
     },
     "375849": {
@@ -2540,6 +2660,16 @@
     "375968": {
       "last_marker": "NEW",
       "title": "Loan Step Modifier",
+      "version": "1.0.0.0"
+    },
+    "376046": {
+      "last_marker": "NEW",
+      "title": "Igland RB2870",
+      "version": "1.0.0.0"
+    },
+    "376048": {
+      "last_marker": "NEW",
+      "title": "Lizard RB2870",
       "version": "1.0.0.0"
     },
     "376132": {
@@ -2573,6 +2703,11 @@
     },
     "376231": {
       "title": "Lizard GHM Tipping Trailer Pack",
+      "version": "1.0.0.0"
+    },
+    "376251": {
+      "last_marker": "NEW",
+      "title": "Massey Ferguson 9S",
       "version": "1.0.0.0"
     },
     "376292": {
@@ -2660,6 +2795,11 @@
       "title": "Lizard EV Charger",
       "version": "1.0.0.0"
     },
+    "376956": {
+      "last_marker": "NEW",
+      "title": "Production Pallet Manager",
+      "version": "1.0.0.0"
+    },
     "377160": {
       "last_marker": "",
       "title": "Broadcast Seeding",
@@ -2699,6 +2839,16 @@
       "last_marker": "",
       "title": "Production Revamp",
       "version": "1.0.0.0"
+    },
+    "378382": {
+      "last_marker": "NEW",
+      "title": "Winch Unlimited Trees",
+      "version": "1.0.0.0"
+    },
+    "378750": {
+      "last_marker": "NEW",
+      "title": "FNT Livemap",
+      "version": "1.0.1.0"
     },
     "378923": {
       "last_marker": "NEW",
