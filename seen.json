@@ -18,6 +18,9 @@
     "307569",
     "308465",
     "308787",
+    "309405",
+    "309726",
+    "309727",
     "309827",
     "310612",
     "310703",
@@ -341,6 +344,7 @@
     "373494",
     "373523",
     "373548",
+    "373550",
     "373556",
     "373588",
     "373590",
@@ -350,6 +354,7 @@
     "373704",
     "373750",
     "373783",
+    "373789",
     "373793",
     "373833",
     "373902",
@@ -392,6 +397,7 @@
     "374345",
     "374361",
     "374363",
+    "374407",
     "374408",
     "374421",
     "374423",
@@ -411,6 +417,7 @@
     "374673",
     "374679",
     "374691",
+    "374714",
     "374741",
     "374844",
     "374898",
@@ -427,10 +434,12 @@
     "375113",
     "375170",
     "375184",
+    "375241",
     "375249",
     "375252",
     "375257",
     "375261",
+    "375278",
     "375360",
     "375419",
     "375432",
@@ -446,6 +455,7 @@
     "375666",
     "375679",
     "375680",
+    "375721",
     "375742",
     "375823",
     "375844",
@@ -460,7 +470,9 @@
     "376132",
     "376137",
     "376150",
+    "376151",
     "376161",
+    "376185",
     "376212",
     "376230",
     "376231",
@@ -480,6 +492,8 @@
     "376639",
     "376806",
     "376867",
+    "376873",
+    "376875",
     "376896",
     "376898",
     "376956",
@@ -489,9 +503,11 @@
     "377323",
     "377438",
     "377581",
+    "377620",
     "377721",
     "378044",
     "378382",
+    "378696",
     "378750",
     "378923"
   ],
@@ -576,6 +592,21 @@
       "last_marker": "",
       "title": "Lizard 379",
       "version": "1.3.0.0"
+    },
+    "309405": {
+      "last_marker": "UPDATE",
+      "title": "Grow Now",
+      "version": "2.0.0.0"
+    },
+    "309726": {
+      "last_marker": "UPDATE",
+      "title": "Real Speed Limit",
+      "version": "1.0.5.0"
+    },
+    "309727": {
+      "last_marker": "UPDATE",
+      "title": "Indoor Camera Position",
+      "version": "1.0.1.0"
     },
     "309827": {
       "title": "Madara Agro Dunav RNT Series",
@@ -1343,9 +1374,9 @@
       "version": "1.1.0.0"
     },
     "366585": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "CLAAS Lexion 8000 Series",
-      "version": "2.0.0.0"
+      "version": "2.0.0.1"
     },
     "366594": {
       "last_marker": "UPDATE",
@@ -2100,6 +2131,11 @@
       "title": "Persistent Tracks",
       "version": "1.0.0.0"
     },
+    "373550": {
+      "last_marker": "NEW",
+      "title": "Volvo L90H Agriculture",
+      "version": "1.0.0.0"
+    },
     "373556": {
       "last_marker": "",
       "title": "Krampe BigBody 550 E",
@@ -2143,6 +2179,11 @@
     "373783": {
       "last_marker": "",
       "title": "Southern Hemisphere Seasons",
+      "version": "1.0.0.0"
+    },
+    "373789": {
+      "last_marker": "NEW",
+      "title": "11kW Wallbox",
       "version": "1.0.0.0"
     },
     "373793": {
@@ -2351,6 +2392,11 @@
       "title": "Pronar T679",
       "version": "1.0.0.0"
     },
+    "374407": {
+      "last_marker": "NEW",
+      "title": "Economy Scale",
+      "version": "1.0.0.0"
+    },
     "374408": {
       "last_marker": "",
       "title": "Decorations",
@@ -2443,6 +2489,11 @@
       "title": "Chicken Barn Large",
       "version": "1.0.0.0"
     },
+    "374714": {
+      "last_marker": "NEW",
+      "title": "Helper Profiles",
+      "version": "1.0.0.0"
+    },
     "374741": {
       "last_marker": "",
       "title": "Sheep Goat Barn With Bale Storage",
@@ -2522,6 +2573,11 @@
       "title": "Lizard LogFlex 8HM",
       "version": "1.0.0.0"
     },
+    "375241": {
+      "last_marker": "NEW",
+      "title": "CLAAS AXION 960-920",
+      "version": "1.0.0.0"
+    },
     "375249": {
       "last_marker": "",
       "title": "Sticky Feet",
@@ -2540,6 +2596,11 @@
     "375261": {
       "last_marker": "",
       "title": "Bunker Silo",
+      "version": "1.0.0.0"
+    },
+    "375278": {
+      "last_marker": "NEW",
+      "title": "Field Painter",
       "version": "1.0.0.0"
     },
     "375360": {
@@ -2617,6 +2678,11 @@
       "title": "Lizard MB Pack",
       "version": "1.0.0.0"
     },
+    "375721": {
+      "last_marker": "NEW",
+      "title": "Disaster Control",
+      "version": "1.0.0.0"
+    },
     "375742": {
       "last_marker": "",
       "title": "Norwegian Bigbags",
@@ -2687,8 +2753,18 @@
       "title": "Lizard LogFlex 8TL",
       "version": "1.0.0.0"
     },
+    "376151": {
+      "last_marker": "NEW",
+      "title": "Big Dairy",
+      "version": "1.0.0.0"
+    },
     "376161": {
       "title": "Farmtech DDK 2400",
+      "version": "1.0.0.0"
+    },
+    "376185": {
+      "last_marker": "NEW",
+      "title": "MultiTask Mowers",
       "version": "1.0.0.0"
     },
     "376212": {
@@ -2785,6 +2861,16 @@
       "title": "Schuitemaker SIWA 720",
       "version": "1.0.0.0"
     },
+    "376873": {
+      "last_marker": "NEW",
+      "title": "Fendt Vario 500 Municipal",
+      "version": "1.0.0.0"
+    },
+    "376875": {
+      "last_marker": "NEW",
+      "title": "Camera Motion",
+      "version": "1.0.0.0"
+    },
     "376896": {
       "last_marker": "",
       "title": "DIY Timber Trailer",
@@ -2830,6 +2916,11 @@
       "title": "Admin Shop Prices",
       "version": "1.0.0.0"
     },
+    "377620": {
+      "last_marker": "NEW",
+      "title": "Lizard SWT 7",
+      "version": "1.0.0.0"
+    },
     "377721": {
       "last_marker": "",
       "title": "Hand Tool Drop",
@@ -2843,6 +2934,11 @@
     "378382": {
       "last_marker": "NEW",
       "title": "Winch Unlimited Trees",
+      "version": "1.0.0.0"
+    },
+    "378696": {
+      "last_marker": "NEW",
+      "title": "RC World",
       "version": "1.0.0.0"
     },
     "378750": {
