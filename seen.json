@@ -65,6 +65,7 @@
     "326805",
     "326824",
     "326870",
+    "326873",
     "326908",
     "327528",
     "327684",
@@ -264,6 +265,7 @@
     "371773",
     "371821",
     "371856",
+    "371858",
     "371875",
     "371919",
     "371928",
@@ -289,6 +291,7 @@
     "372312",
     "372319",
     "372370",
+    "372429",
     "372445",
     "372450",
     "372458",
@@ -381,6 +384,7 @@
     "374125",
     "374131",
     "374138",
+    "374142",
     "374145",
     "374157",
     "374171",
@@ -406,6 +410,7 @@
     "374453",
     "374481",
     "374500",
+    "374527",
     "374533",
     "374542",
     "374566",
@@ -413,6 +418,8 @@
     "374583",
     "374602",
     "374628",
+    "374631",
+    "374655",
     "374666",
     "374673",
     "374679",
@@ -434,6 +441,7 @@
     "375113",
     "375170",
     "375184",
+    "375231",
     "375241",
     "375249",
     "375252",
@@ -457,6 +465,7 @@
     "375680",
     "375721",
     "375742",
+    "375780",
     "375823",
     "375844",
     "375849",
@@ -484,13 +493,20 @@
     "376297",
     "376313",
     "376320",
+    "376328",
+    "376336",
+    "376382",
     "376392",
     "376397",
     "376405",
     "376409",
     "376484",
+    "376538",
     "376639",
+    "376703",
+    "376742",
     "376806",
+    "376864",
     "376867",
     "376873",
     "376875",
@@ -542,7 +558,7 @@
       "version": "1.5.0.0"
     },
     "306056": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Strautmann Tera-Vitesse CFS 4601 DO",
       "version": "1.1.0.0"
     },
@@ -784,7 +800,7 @@
       "version": "1.3.0.3"
     },
     "322508": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Kaweco 28m3 Gooseneck",
       "version": "1.0.0.3"
     },
@@ -817,6 +833,11 @@
       "title": "Lizard Multipurpose Sheds",
       "version": "1.2.1.0"
     },
+    "326873": {
+      "last_marker": "UPDATE",
+      "title": "Lizard Grain Storage And Animal Food Mixer",
+      "version": "1.3.0.0"
+    },
     "326908": {
       "last_marker": "",
       "title": "Maps Supplementary Package",
@@ -847,7 +868,7 @@
       "version": "1.1.0.0"
     },
     "330336": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Agribumper Pack",
       "version": "1.0.1.0"
     },
@@ -875,12 +896,12 @@
       "version": "1.4.0.0"
     },
     "334531": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Tatra Phoenix RHD 6x6 Agro-Truck",
       "version": "1.0.0.1"
     },
     "334714": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Decoration Pack",
       "version": "1.1.0.0"
     },
@@ -1004,7 +1025,7 @@
       "version": "1.0.0.2"
     },
     "346274": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Construction Truck",
       "version": "1.0.0.1"
     },
@@ -1024,7 +1045,7 @@
       "version": "1.0.0.1"
     },
     "346975": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Lizard Covered Multi Bunkersilos",
       "version": "1.1.0.0"
     },
@@ -1067,7 +1088,7 @@
       "version": "1.2.0.1"
     },
     "351326": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "CanAm Maverick X3",
       "version": "1.1.0.0"
     },
@@ -1525,7 +1546,7 @@
       "version": "1.0.0.2"
     },
     "369544": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Dynamic Dealership",
       "version": "2.0.0.0"
     },
@@ -1599,7 +1620,7 @@
       "version": "1.1.0.0"
     },
     "370390": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Horsch Suitcase Weight",
       "version": "1.1.0.0"
     },
@@ -1705,7 +1726,7 @@
       "version": "1.0.0.0"
     },
     "371432": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Broughan 14F Trailer",
       "version": "1.0.0.0"
     },
@@ -1759,6 +1780,11 @@
     "371856": {
       "last_marker": "",
       "title": "Broughan 28F Animal Trailer",
+      "version": "1.0.0.0"
+    },
+    "371858": {
+      "last_marker": "NEW",
+      "title": "Silverrun Productions",
       "version": "1.0.0.0"
     },
     "371919": {
@@ -1871,6 +1897,11 @@
     "372370": {
       "last_marker": "",
       "title": "Farm Limit Manager",
+      "version": "1.0.0.0"
+    },
+    "372429": {
+      "last_marker": "NEW",
+      "title": "Drumard Farm Extended",
       "version": "1.0.0.0"
     },
     "372445": {
@@ -2157,7 +2188,7 @@
       "version": "1.0.0.0"
     },
     "373637": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Capacity Upgrade",
       "version": "1.0.0.0"
     },
@@ -2252,9 +2283,9 @@
       "version": "1.0.0.0"
     },
     "374012": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Polish White Brick House",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "374023": {
       "last_marker": "",
@@ -2313,6 +2344,11 @@
     "374138": {
       "last_marker": "",
       "title": "Manual Machine Hydraulics Control",
+      "version": "1.0.0.0"
+    },
+    "374142": {
+      "last_marker": "NEW",
+      "title": "John Deere S7 Pack",
       "version": "1.0.0.0"
     },
     "374145": {
@@ -2403,7 +2439,7 @@
       "version": "1.0.0.0"
     },
     "374421": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Work Speed Booster",
       "version": "1.0.0.0"
     },
@@ -2437,6 +2473,11 @@
       "title": "CaseIH PumaCVX 2WD",
       "version": "1.0.0.0"
     },
+    "374527": {
+      "last_marker": "NEW",
+      "title": "Oil Plant",
+      "version": "1.0.0.0"
+    },
     "374533": {
       "last_marker": "",
       "title": "Bale Batch Tracker",
@@ -2468,6 +2509,16 @@
     },
     "374628": {
       "title": "Concrete Tile Fence",
+      "version": "1.0.0.0"
+    },
+    "374631": {
+      "last_marker": "NEW",
+      "title": "Pellet Hall Auto Stacker",
+      "version": "1.0.0.0"
+    },
+    "374655": {
+      "last_marker": "NEW",
+      "title": "Bergmann HTW 65 S",
       "version": "1.0.0.0"
     },
     "374666": {
@@ -2573,10 +2624,15 @@
       "title": "Lizard LogFlex 8HM",
       "version": "1.0.0.0"
     },
-    "375241": {
+    "375231": {
       "last_marker": "NEW",
-      "title": "CLAAS AXION 960-920",
+      "title": "Shop Vision",
       "version": "1.0.0.0"
+    },
+    "375241": {
+      "last_marker": "UPDATE",
+      "title": "CLAAS AXION 960-920",
+      "version": "1.0.0.1"
     },
     "375249": {
       "last_marker": "",
@@ -2634,7 +2690,7 @@
       "version": "1.0.0.0"
     },
     "375533": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Folding Fan Gate",
       "version": "1.0.0.0"
     },
@@ -2688,6 +2744,11 @@
       "title": "Norwegian Bigbags",
       "version": "1.0.0.0"
     },
+    "375780": {
+      "last_marker": "NEW",
+      "title": "Dalbo Multiflex 300",
+      "version": "1.0.0.0"
+    },
     "375823": {
       "last_marker": "",
       "title": "Fendt 800 Vario S4",
@@ -2739,7 +2800,7 @@
       "version": "1.0.0.0"
     },
     "376132": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Selfmade Bumper 1900kg",
       "version": "1.0.0.0"
     },
@@ -2768,12 +2829,12 @@
       "version": "1.0.0.0"
     },
     "376212": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Butterfly Portal",
       "version": "1.0.0.0"
     },
     "376230": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Lizard 3m",
       "version": "1.0.0.0"
     },
@@ -2792,17 +2853,17 @@
       "version": "1.0.0.0"
     },
     "376293": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Volvo Cranes SMV 4531 TC5",
       "version": "1.0.0.0"
     },
     "376294": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Grain Containers",
       "version": "1.0.0.0"
     },
     "376295": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Fliegl Tipping Container Trailer",
       "version": "1.0.0.0"
     },
@@ -2819,6 +2880,21 @@
     "376320": {
       "last_marker": "",
       "title": "Old Wooden House",
+      "version": "1.0.0.0"
+    },
+    "376328": {
+      "last_marker": "NEW",
+      "title": "Lizard STR Attachments",
+      "version": "1.0.0.0"
+    },
+    "376336": {
+      "last_marker": "NEW",
+      "title": "Lizard L4560 Roller",
+      "version": "1.0.0.0"
+    },
+    "376382": {
+      "last_marker": "NEW",
+      "title": "CCM Forage Header System",
       "version": "1.0.0.0"
     },
     "376392": {
@@ -2846,14 +2922,34 @@
       "title": "Fence Placement Helper",
       "version": "1.0.0.0"
     },
-    "376639": {
+    "376538": {
       "last_marker": "NEW",
+      "title": "Custom Animal Food Recipes",
+      "version": "1.0.0.0"
+    },
+    "376639": {
+      "last_marker": "",
       "title": "Brochard EV 2200 70",
+      "version": "1.0.0.0"
+    },
+    "376703": {
+      "last_marker": "NEW",
+      "title": "Advanced Weighing Station",
+      "version": "1.0.0.0"
+    },
+    "376742": {
+      "last_marker": "NEW",
+      "title": "Farm Year In Review",
       "version": "1.0.0.0"
     },
     "376806": {
       "last_marker": "",
       "title": "Saphir MGS 300",
+      "version": "1.0.0.0"
+    },
+    "376864": {
+      "last_marker": "NEW",
+      "title": "Fendt W 870, W 1800",
       "version": "1.0.0.0"
     },
     "376867": {
@@ -2897,7 +2993,7 @@
       "version": "1.0.0.1"
     },
     "377317": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Liebherr LH110 C Gantry",
       "version": "1.0.0.0"
     },
