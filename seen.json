@@ -145,6 +145,7 @@
     "356807",
     "357191",
     "357505",
+    "357595",
     "357964",
     "358438",
     "358481",
@@ -165,6 +166,7 @@
     "361940",
     "361963",
     "362071",
+    "362332",
     "362785",
     "362799",
     "362899",
@@ -267,6 +269,7 @@
     "371856",
     "371858",
     "371875",
+    "371900",
     "371919",
     "371928",
     "371987",
@@ -313,6 +316,7 @@
     "372890",
     "372910",
     "372914",
+    "372924",
     "372955",
     "373000",
     "373002",
@@ -321,6 +325,7 @@
     "373070",
     "373077",
     "373118",
+    "373127",
     "373133",
     "373174",
     "373175",
@@ -334,6 +339,7 @@
     "373260",
     "373274",
     "373292",
+    "373327",
     "373329",
     "373331",
     "373346",
@@ -345,6 +351,7 @@
     "373453",
     "373456",
     "373494",
+    "373521",
     "373523",
     "373548",
     "373550",
@@ -357,9 +364,12 @@
     "373704",
     "373750",
     "373783",
+    "373788",
     "373789",
     "373793",
+    "373802",
     "373833",
+    "373861",
     "373902",
     "373903",
     "373913",
@@ -415,10 +425,13 @@
     "374542",
     "374566",
     "374574",
+    "374578",
     "374583",
     "374602",
     "374628",
+    "374629",
     "374631",
+    "374646",
     "374655",
     "374666",
     "374673",
@@ -441,6 +454,7 @@
     "375113",
     "375170",
     "375184",
+    "375226",
     "375231",
     "375241",
     "375249",
@@ -456,6 +470,7 @@
     "375504",
     "375533",
     "375571",
+    "375572",
     "375583",
     "375589",
     "375622",
@@ -467,6 +482,7 @@
     "375742",
     "375780",
     "375823",
+    "375837",
     "375844",
     "375849",
     "375902",
@@ -503,6 +519,7 @@
     "376484",
     "376538",
     "376639",
+    "376641",
     "376703",
     "376742",
     "376806",
@@ -517,7 +534,9 @@
     "377259",
     "377317",
     "377323",
+    "377342",
     "377438",
+    "377564",
     "377581",
     "377620",
     "377721",
@@ -553,7 +572,7 @@
       "version": "1.0.0.2"
     },
     "305098": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Snüfelstück",
       "version": "1.5.0.0"
     },
@@ -596,7 +615,7 @@
       "version": "1.2.0.1"
     },
     "307569": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Steel Sheds Pack",
       "version": "1.0.0.2"
     },
@@ -638,7 +657,7 @@
       "version": "1.0.0.1"
     },
     "310861": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "VIP Order Manager",
       "version": "1.2.2.0"
     },
@@ -772,12 +791,12 @@
       "version": "1.1.0.0"
     },
     "318581": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Pig Farm Building Package",
       "version": "1.2.0.0"
     },
     "319065": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Compost Production Pack",
       "version": "1.3.0.1"
     },
@@ -805,7 +824,7 @@
       "version": "1.0.0.3"
     },
     "323208": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Fendt Farmer 300 C/Ci",
       "version": "1.1.0.0"
     },
@@ -820,7 +839,7 @@
       "version": "1.1.0.0"
     },
     "326805": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Massey Ferguson SD-2",
       "version": "1.3.0.0"
     },
@@ -848,7 +867,7 @@
       "version": "1.2.1.0"
     },
     "327684": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "John Deere 561R Premium Round Baler",
       "version": "1.0.0.2"
     },
@@ -919,7 +938,7 @@
       "version": "2.0.0.0"
     },
     "336320": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Pig Food Production",
       "version": "1.0.0.1"
     },
@@ -1030,7 +1049,7 @@
       "version": "1.0.0.1"
     },
     "346446": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Additional Inputs",
       "version": "1.2.1.1"
     },
@@ -1050,7 +1069,7 @@
       "version": "1.1.0.0"
     },
     "347177": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Kreis Steinfurt",
       "version": "2.1.2.0"
     },
@@ -1097,7 +1116,7 @@
       "version": "1.5.0.0"
     },
     "351661": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Kubota M7 US/EU",
       "version": "1.0.0.1"
     },
@@ -1112,7 +1131,7 @@
       "version": "1.1.0.0"
     },
     "353449": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Lanrelas",
       "version": "2.0.0.3"
     },
@@ -1185,7 +1204,7 @@
       "version": "1.0.0.2"
     },
     "356681": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Litres To Tonnes Converter",
       "version": "1.2.0.0"
     },
@@ -1199,14 +1218,19 @@
       "version": "1.0.0.3"
     },
     "357191": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Farmland Auctions",
       "version": "1.0.0.2"
     },
     "357505": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Vegetable Container",
       "version": "1.0.0.6"
+    },
+    "357595": {
+      "last_marker": "UPDATE",
+      "title": "Selendra Buildings Pack",
+      "version": "1.0.0.1"
     },
     "357964": {
       "last_marker": "",
@@ -1233,7 +1257,7 @@
       "version": "1.0.0.2"
     },
     "359455": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Red Brick And Metal Fence",
       "version": "1.1.0.0"
     },
@@ -1298,9 +1322,14 @@
       "version": "1.2.1.0"
     },
     "362071": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Self-built Trailer",
       "version": "2.1.0.0"
+    },
+    "362332": {
+      "last_marker": "UPDATE",
+      "title": "Market Price Helper",
+      "version": "1.0.0.2"
     },
     "362785": {
       "last_marker": "",
@@ -1318,7 +1347,7 @@
       "version": "1.0.2.0"
     },
     "363153": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Mecklenburg Decorative Houses Package",
       "version": "1.1.0.0"
     },
@@ -1328,7 +1357,7 @@
       "version": "2.2.0.0"
     },
     "363603": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "St. Lawrence",
       "version": "1.0.1.1"
     },
@@ -1428,7 +1457,7 @@
       "version": "1.1.0.0"
     },
     "367299": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "CLAAS Lexion 8000 Series",
       "version": "2.0.0.0"
     },
@@ -1438,7 +1467,7 @@
       "version": "1.1.0.2"
     },
     "367507": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Homemade Weight",
       "version": "1.1.0.0"
     },
@@ -1452,7 +1481,7 @@
       "version": "1.0.0.0"
     },
     "367570": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Silage Cutting Pliers",
       "version": "1.0.0.1"
     },
@@ -1462,7 +1491,7 @@
       "version": "1.2.0.0"
     },
     "367614": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Big Pack 1290 HDP VC",
       "version": "1.1.0.0"
     },
@@ -1497,7 +1526,7 @@
       "version": "1.0.0.0"
     },
     "368559": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Massey Ferguson 11",
       "version": "1.1.0.0"
     },
@@ -1551,7 +1580,7 @@
       "version": "2.0.0.0"
     },
     "369583": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Object Storage Visuals",
       "version": "1.0.1.0"
     },
@@ -1578,7 +1607,7 @@
       "version": "1.0.1.0"
     },
     "369887": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Small Soup Factory",
       "version": "1.0.0.2"
     },
@@ -1673,12 +1702,12 @@
       "version": "1.0.0.0"
     },
     "370658": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "New Holland SP400F",
       "version": "1.1.0.0"
     },
     "370779": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Amazone Pantera 4502",
       "version": "1.1.0.0"
     },
@@ -1787,6 +1816,11 @@
       "title": "Silverrun Productions",
       "version": "1.0.0.0"
     },
+    "371900": {
+      "last_marker": "",
+      "title": "Berthoud DP Tronic Terminal",
+      "version": "1.0.0.0"
+    },
     "371919": {
       "last_marker": "",
       "title": "Abbey 2000 Slurry Spreader",
@@ -1807,7 +1841,7 @@
       "version": "1.0.0.0"
     },
     "371995": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Multi-Family House",
       "version": "1.0.0.1"
     },
@@ -1872,7 +1906,7 @@
       "version": "1.0.0.0"
     },
     "372285": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Better Bale Physics",
       "version": "1.0.0.2"
     },
@@ -1972,7 +2006,7 @@
       "version": "1.0.0.0"
     },
     "372794": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Citroën C15 Utility",
       "version": "1.0.0.1"
     },
@@ -2003,6 +2037,11 @@
       "last_marker": "",
       "title": "Tyrolean Whitecreek Valley",
       "version": "1.0.0.1"
+    },
+    "372924": {
+      "last_marker": "NEW",
+      "title": "Old Hay Loft",
+      "version": "1.0.0.0"
     },
     "372955": {
       "last_marker": "",
@@ -2041,6 +2080,11 @@
       "title": "50% Navigation HUD Map",
       "version": "1.0.0.0"
     },
+    "373127": {
+      "last_marker": "NEW",
+      "title": "Small Animal Pastures Pack",
+      "version": "1.0.0.0"
+    },
     "373133": {
       "last_marker": "",
       "title": "Agricultural Supplies Station",
@@ -2057,7 +2101,7 @@
       "version": "1.0.0.0"
     },
     "373176": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Wooden Farm Storage Pack",
       "version": "1.0.0.2"
     },
@@ -2100,6 +2144,11 @@
     "373292": {
       "last_marker": "",
       "title": "Tree Mapper",
+      "version": "1.0.0.0"
+    },
+    "373327": {
+      "last_marker": "NEW",
+      "title": "Demmler SKM 209",
       "version": "1.0.0.0"
     },
     "373329": {
@@ -2151,6 +2200,11 @@
     "373494": {
       "last_marker": "",
       "title": "Krajow And Lazniki",
+      "version": "1.0.0.0"
+    },
+    "373521": {
+      "last_marker": "NEW",
+      "title": "Brantner Power Push 34090 Plus",
       "version": "1.0.0.0"
     },
     "373523": {
@@ -2212,6 +2266,11 @@
       "title": "Southern Hemisphere Seasons",
       "version": "1.0.0.0"
     },
+    "373788": {
+      "last_marker": "NEW",
+      "title": "Schäffer 2033",
+      "version": "1.0.0.0"
+    },
     "373789": {
       "last_marker": "NEW",
       "title": "11kW Wallbox",
@@ -2222,9 +2281,19 @@
       "title": "Brazilian Grain Silo",
       "version": "1.0.0.0"
     },
+    "373802": {
+      "last_marker": "NEW",
+      "title": "Schäffer SWH Tools",
+      "version": "1.0.0.0"
+    },
     "373833": {
       "last_marker": "",
       "title": "Lizard Silage Blade",
+      "version": "1.0.0.0"
+    },
+    "373861": {
+      "last_marker": "NEW",
+      "title": "Nordsten CLD 25",
       "version": "1.0.0.0"
     },
     "373902": {
@@ -2497,6 +2566,11 @@
       "title": "Pack Bus Stop",
       "version": "1.0.0.0"
     },
+    "374578": {
+      "last_marker": "",
+      "title": "Wooden Outhouse",
+      "version": "1.0.0.0"
+    },
     "374583": {
       "last_marker": "",
       "title": "Livestock Flies",
@@ -2511,9 +2585,19 @@
       "title": "Concrete Tile Fence",
       "version": "1.0.0.0"
     },
+    "374629": {
+      "last_marker": "NEW",
+      "title": "Krone Premos 5000 Autoload",
+      "version": "1.0.0.0"
+    },
     "374631": {
       "last_marker": "NEW",
       "title": "Pellet Hall Auto Stacker",
+      "version": "1.0.0.0"
+    },
+    "374646": {
+      "last_marker": "NEW",
+      "title": "Franconian Switzerland",
       "version": "1.0.0.0"
     },
     "374655": {
@@ -2624,6 +2708,11 @@
       "title": "Lizard LogFlex 8HM",
       "version": "1.0.0.0"
     },
+    "375226": {
+      "last_marker": "NEW",
+      "title": "Krasylivka",
+      "version": "1.0.0.0"
+    },
     "375231": {
       "last_marker": "NEW",
       "title": "Shop Vision",
@@ -2660,7 +2749,7 @@
       "version": "1.0.0.0"
     },
     "375360": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Auto Leveler - Landscaping Terraformer, Slopes & Roads",
       "version": "1.1.0.0"
     },
@@ -2697,6 +2786,11 @@
     "375571": {
       "last_marker": "NEW",
       "title": "Upgrade Your Factory MP 60x",
+      "version": "1.0.0.0"
+    },
+    "375572": {
+      "last_marker": "NEW",
+      "title": "Škoda 706MT Pack",
       "version": "1.0.0.0"
     },
     "375583": {
@@ -2752,6 +2846,11 @@
     "375823": {
       "last_marker": "",
       "title": "Fendt 800 Vario S4",
+      "version": "1.0.0.0"
+    },
+    "375837": {
+      "last_marker": "NEW",
+      "title": "SamsonAgro T34/T44",
       "version": "1.0.0.0"
     },
     "375844": {
@@ -2932,6 +3031,11 @@
       "title": "Brochard EV 2200 70",
       "version": "1.0.0.0"
     },
+    "376641": {
+      "last_marker": "NEW",
+      "title": "Bale Conveyor Belt",
+      "version": "1.0.0.0"
+    },
     "376703": {
       "last_marker": "NEW",
       "title": "Advanced Weighing Station",
@@ -2988,7 +3092,7 @@
       "version": "1.0.0.0"
     },
     "377259": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Platform Headertrailer",
       "version": "1.0.0.1"
     },
@@ -3002,9 +3106,19 @@
       "title": "FillType Alert",
       "version": "1.0.0.0"
     },
+    "377342": {
+      "last_marker": "NEW",
+      "title": "Elmers Chaser Bins 45T-60T",
+      "version": "1.0.0.0"
+    },
     "377438": {
       "last_marker": "",
       "title": "Grass Contracts",
+      "version": "1.0.0.0"
+    },
+    "377564": {
+      "last_marker": "NEW",
+      "title": "Schwarzmüller Walking-Floor Semitrailer",
       "version": "1.0.0.0"
     },
     "377581": {
