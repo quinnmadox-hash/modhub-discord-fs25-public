@@ -506,6 +506,7 @@
     "376293",
     "376294",
     "376295",
+    "376296",
     "376297",
     "376313",
     "376320",
@@ -1404,7 +1405,7 @@
       "version": "1.0.0.2"
     },
     "365898": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Improved Controls Menu",
       "version": "1.0.0.2"
     },
@@ -1855,7 +1856,7 @@
       "version": "1.0.0.0"
     },
     "372022": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Small Coal Extractor",
       "version": "1.0.0.0"
     },
@@ -1939,7 +1940,7 @@
       "version": "1.0.0.0"
     },
     "372445": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Mid Sugar Mill",
       "version": "1.0.0.0"
     },
@@ -2096,7 +2097,7 @@
       "version": "1.0.0.1"
     },
     "373175": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Unia FM700 3/D",
       "version": "1.0.0.0"
     },
@@ -2247,7 +2248,7 @@
       "version": "1.0.0.0"
     },
     "373678": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Oedberg At The Tegernsee",
       "version": "1.0.0.0"
     },
@@ -2558,7 +2559,7 @@
       "version": "1.0.0.0"
     },
     "374566": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Plastic Construction Barriers",
       "version": "1.0.0.0"
     },
@@ -2694,7 +2695,7 @@
       "version": "1.0.0.0"
     },
     "375113": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Perwolf TrailerLight",
       "version": "1.0.0.0"
     },
@@ -2769,7 +2770,7 @@
       "version": "1.0.0.0"
     },
     "375472": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Bunker Silo Pack",
       "version": "1.0.0.0"
     },
@@ -2966,6 +2967,11 @@
       "title": "Fliegl Tipping Container Trailer",
       "version": "1.0.0.0"
     },
+    "376296": {
+      "last_marker": "NEW",
+      "title": "Farmtech TDK 1600",
+      "version": "1.0.0.0"
+    },
     "376297": {
       "last_marker": "",
       "title": "Dog Houses",
@@ -3007,7 +3013,7 @@
       "version": "1.0.0.0"
     },
     "376405": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "No Credit Limit",
       "version": "1.0.0.0"
     },
@@ -3057,7 +3063,7 @@
       "version": "1.0.0.0"
     },
     "376867": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Schuitemaker SIWA 720",
       "version": "1.0.0.0"
     },
@@ -3157,7 +3163,7 @@
       "version": "1.0.1.0"
     },
     "378923": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Precision Farming Liquid Lime Fix",
       "version": "1.0.0.0"
     }
