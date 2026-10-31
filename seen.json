@@ -98,6 +98,7 @@
     "341259",
     "342234",
     "342332",
+    "342831",
     "343328",
     "343366",
     "343773",
@@ -423,6 +424,7 @@
     "374527",
     "374533",
     "374542",
+    "374548",
     "374566",
     "374574",
     "374578",
@@ -521,6 +523,7 @@
     "376538",
     "376639",
     "376641",
+    "376682",
     "376703",
     "376742",
     "376806",
@@ -531,6 +534,7 @@
     "376896",
     "376898",
     "376956",
+    "376974",
     "377160",
     "377259",
     "377317",
@@ -1005,6 +1009,11 @@
       "last_marker": "",
       "title": "Advanced Silage Types",
       "version": "1.4.0.1"
+    },
+    "342831": {
+      "last_marker": "UPDATE",
+      "title": "MAN TGS 18.500 Kipper",
+      "version": "2.0.0.0"
     },
     "343328": {
       "last_marker": "",
@@ -2558,6 +2567,11 @@
       "title": "Open Pastures",
       "version": "1.0.0.0"
     },
+    "374548": {
+      "last_marker": "NEW",
+      "title": "Baltic Sea: Hohenwiek",
+      "version": "1.0.0.0"
+    },
     "374566": {
       "last_marker": "",
       "title": "Plastic Construction Barriers",
@@ -3042,6 +3056,11 @@
       "title": "Bale Conveyor Belt",
       "version": "1.0.0.0"
     },
+    "376682": {
+      "last_marker": "NEW",
+      "title": "Highlight Selected Control Group",
+      "version": "1.0.0.0"
+    },
     "376703": {
       "last_marker": "NEW",
       "title": "Advanced Weighing Station",
@@ -3090,6 +3109,11 @@
     "376956": {
       "last_marker": "NEW",
       "title": "Production Pallet Manager",
+      "version": "1.0.0.0"
+    },
+    "376974": {
+      "last_marker": "NEW",
+      "title": "Golden Opportunities",
       "version": "1.0.0.0"
     },
     "377160": {
