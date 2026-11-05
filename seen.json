@@ -84,6 +84,7 @@
     "324842",
     "325337",
     "325712",
+    "326441",
     "326484",
     "326644",
     "326805",
@@ -97,6 +98,7 @@
     "328619",
     "329586",
     "329599",
+    "329608",
     "330177",
     "330336",
     "330434",
@@ -128,6 +130,7 @@
     "340224",
     "341045",
     "341259",
+    "341797",
     "341829",
     "342234",
     "342332",
@@ -194,10 +197,13 @@
     "357595",
     "357964",
     "358438",
+    "358448",
     "358481",
+    "358677",
     "358719",
     "358787",
     "359028",
+    "359062",
     "359077",
     "359455",
     "359627",
@@ -218,6 +224,7 @@
     "361963",
     "362071",
     "362332",
+    "362556",
     "362785",
     "362799",
     "362899",
@@ -230,9 +237,12 @@
     "363637",
     "363914",
     "364161",
+    "364299",
+    "364457",
     "364769",
     "364982",
     "365156",
+    "365163",
     "365222",
     "365400",
     "365563",
@@ -241,6 +251,8 @@
     "365898",
     "365957",
     "366174",
+    "366477",
+    "366544",
     "366549",
     "366585",
     "366594",
@@ -270,6 +282,7 @@
     "368672",
     "368692",
     "368798",
+    "369002",
     "369004",
     "369011",
     "369067",
@@ -308,6 +321,7 @@
     "370658",
     "370779",
     "371057",
+    "371086",
     "371175",
     "371178",
     "371202",
@@ -423,8 +437,10 @@
     "373366",
     "373412",
     "373421",
+    "373433",
     "373445",
     "373453",
+    "373454",
     "373456",
     "373494",
     "373521",
@@ -440,6 +456,7 @@
     "373678",
     "373702",
     "373704",
+    "373742",
     "373750",
     "373783",
     "373788",
@@ -471,6 +488,7 @@
     "374069",
     "374096",
     "374101",
+    "374123",
     "374125",
     "374131",
     "374138",
@@ -492,6 +510,7 @@
     "374345",
     "374361",
     "374363",
+    "374365",
     "374407",
     "374408",
     "374421",
@@ -526,12 +545,14 @@
     "374937",
     "374942",
     "374956",
+    "374981",
     "374982",
     "374983",
     "375007",
     "375032",
     "375033",
     "375034",
+    "375042",
     "375044",
     "375045",
     "375113",
@@ -553,13 +574,17 @@
     "375432",
     "375449",
     "375472",
+    "375503",
     "375504",
     "375533",
+    "375546",
     "375571",
     "375572",
     "375583",
     "375589",
     "375622",
+    "375627",
+    "375638",
     "375655",
     "375666",
     "375679",
@@ -586,11 +611,13 @@
     "376151",
     "376161",
     "376185",
+    "376211",
     "376212",
     "376230",
     "376231",
     "376251",
     "376254",
+    "376288",
     "376292",
     "376293",
     "376294",
@@ -605,11 +632,14 @@
     "376382",
     "376392",
     "376397",
+    "376398",
     "376405",
     "376409",
     "376484",
     "376538",
+    "376547",
     "376594",
+    "376635",
     "376639",
     "376641",
     "376682",
@@ -617,6 +647,7 @@
     "376730",
     "376742",
     "376806",
+    "376849",
     "376864",
     "376867",
     "376873",
@@ -624,8 +655,10 @@
     "376896",
     "376898",
     "376956",
+    "376964",
     "376974",
     "377058",
+    "377102",
     "377160",
     "377203",
     "377259",
@@ -633,6 +666,8 @@
     "377323",
     "377342",
     "377438",
+    "377457",
+    "377505",
     "377564",
     "377581",
     "377599",
@@ -1049,6 +1084,11 @@
       "title": "CLAAS TRION 700",
       "version": "1.1.0.0"
     },
+    "326441": {
+      "last_marker": "UPDATE",
+      "title": "Yield Tracker",
+      "version": "1.1.0.0"
+    },
     "326484": {
       "last_marker": "UPDATE",
       "title": "Medium Garage",
@@ -1111,6 +1151,11 @@
       "last_marker": "",
       "title": "The Alps",
       "version": "1.0.0.5"
+    },
+    "329608": {
+      "last_marker": "UPDATE",
+      "title": "CLAAS CONVIO FLEX Pack",
+      "version": "1.1.0.0"
     },
     "330177": {
       "last_marker": "",
@@ -1257,6 +1302,11 @@
       "title": "Rennebu 25",
       "version": "1.0.0.4"
     },
+    "341797": {
+      "last_marker": "UPDATE",
+      "title": "Stone Heap",
+      "version": "1.0.1.0"
+    },
     "341829": {
       "last_marker": "UPDATE",
       "title": "Selling Buying Stations",
@@ -1396,7 +1446,7 @@
     "350631": {
       "last_marker": "UPDATE",
       "title": "Chip N' Wood Sawmill",
-      "version": "1.1.0.0"
+      "version": "1.1.0.1"
     },
     "351118": {
       "title": "Albutt Silage Bucket",
@@ -1573,10 +1623,20 @@
       "title": "The Majestic Land",
       "version": "1.0.0.1"
     },
+    "358448": {
+      "last_marker": "UPDATE",
+      "title": "Unload Bale Wrap",
+      "version": "1.0.3.0"
+    },
     "358481": {
       "last_marker": "",
       "title": "3DInspector",
       "version": "1.1.0.0"
+    },
+    "358677": {
+      "last_marker": "UPDATE",
+      "title": "License Plate Randomizer",
+      "version": "1.0.3.0"
     },
     "358719": {
       "last_marker": "",
@@ -1591,6 +1651,11 @@
       "last_marker": "UPDATE",
       "title": "GrapeProcessing And Grape Olives Vines",
       "version": "1.2.0.0"
+    },
+    "359062": {
+      "last_marker": "UPDATE",
+      "title": "Move Placeables Advanced",
+      "version": "2.4.0.0"
     },
     "359077": {
       "last_marker": "UPDATE",
@@ -1687,6 +1752,11 @@
       "title": "Market Price Helper",
       "version": "1.0.0.2"
     },
+    "362556": {
+      "last_marker": "UPDATE",
+      "title": "Minimap Plus",
+      "version": "1.0.2.0"
+    },
     "362785": {
       "last_marker": "",
       "title": "Wildenberg",
@@ -1713,9 +1783,9 @@
       "version": "1.1.0.0"
     },
     "363383": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Terrain Texture And Object Picker",
-      "version": "2.2.0.0"
+      "version": "2.2.1.0"
     },
     "363603": {
       "last_marker": "",
@@ -1746,6 +1816,16 @@
       "title": "Glenleathann",
       "version": "1.3.0.0"
     },
+    "364299": {
+      "last_marker": "UPDATE",
+      "title": "Server Player Count",
+      "version": "1.1.2.0"
+    },
+    "364457": {
+      "last_marker": "UPDATE",
+      "title": "Livestock Visibility",
+      "version": "1.0.1.0"
+    },
     "364769": {
       "last_marker": "",
       "title": "The Rural Farmlands Of Ohio",
@@ -1759,6 +1839,11 @@
       "last_marker": "",
       "title": "Old White Cowbarn",
       "version": "1.0.0.2"
+    },
+    "365163": {
+      "last_marker": "UPDATE",
+      "title": "CLAAS Disco 1100C + 3600FC Night Edition",
+      "version": "1.0.0.3"
     },
     "365222": {
       "last_marker": "",
@@ -1795,9 +1880,19 @@
       "version": "2.0.0.0"
     },
     "366174": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Dynamic Market",
-      "version": "1.3.2.0"
+      "version": "1.4.0.0"
+    },
+    "366477": {
+      "last_marker": "UPDATE",
+      "title": "Mouse Click Actions",
+      "version": "1.0.1.0"
+    },
+    "366544": {
+      "last_marker": "UPDATE",
+      "title": "Grape And Olive Yield Settings",
+      "version": "1.0.0.1"
     },
     "366549": {
       "last_marker": "",
@@ -1940,6 +2035,11 @@
       "title": "Continue Driving After Exit",
       "version": "1.1.0.0"
     },
+    "369002": {
+      "last_marker": "UPDATE",
+      "title": "Windshield Fun/Name Plates",
+      "version": "1.2.0.0"
+    },
     "369004": {
       "last_marker": "",
       "title": "Lindner Lintrac 130",
@@ -1981,8 +2081,9 @@
       "version": "1.0.1.0"
     },
     "369642": {
+      "last_marker": "UPDATE",
       "title": "Vehicle Tab Sorting",
-      "version": "1.3.0.0"
+      "version": "1.4.0.0"
     },
     "369653": {
       "title": "Feed Silo",
@@ -2121,6 +2222,11 @@
       "last_marker": "",
       "title": "Fliegl Equipment Pack",
       "version": "1.0.0.2"
+    },
+    "371086": {
+      "last_marker": "NEW",
+      "title": "Vehicle Delivery",
+      "version": "1.0.0.0"
     },
     "371175": {
       "last_marker": "UPDATE",
@@ -2499,7 +2605,7 @@
     "372924": {
       "last_marker": "UPDATE",
       "title": "Old Hay Loft",
-      "version": "1.0.0.1"
+      "version": "1.0.0.2"
     },
     "372955": {
       "last_marker": "",
@@ -2666,6 +2772,11 @@
       "title": "Lieshof 4x Map",
       "version": "1.0.1.0"
     },
+    "373433": {
+      "last_marker": "NEW",
+      "title": "HAWE ULW 4000 TR",
+      "version": "1.0.0.0"
+    },
     "373445": {
       "last_marker": "",
       "title": "Harvestmission Creator",
@@ -2674,6 +2785,11 @@
     "373453": {
       "last_marker": "",
       "title": "Cyklop T214",
+      "version": "1.0.0.0"
+    },
+    "373454": {
+      "last_marker": "NEW",
+      "title": "Mesko-Rol Z066",
       "version": "1.0.0.0"
     },
     "373456": {
@@ -2745,8 +2861,13 @@
       "version": "1.0.0.0"
     },
     "373704": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "MAN TGX 26.640 TSW 6240W Spreader",
+      "version": "1.0.0.1"
+    },
+    "373742": {
+      "last_marker": "NEW",
+      "title": "Milk Contract",
       "version": "1.0.0.0"
     },
     "373750": {
@@ -2845,9 +2966,9 @@
       "version": "1.0.0.1"
     },
     "373958": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "K105 42m Multi-Service",
-      "version": "1.0.0.0"
+      "version": "1.0.1.0"
     },
     "374002": {
       "last_marker": "",
@@ -2902,6 +3023,11 @@
       "last_marker": "",
       "title": "Liters To Tonnes",
       "version": "1.1.0.0"
+    },
+    "374123": {
+      "last_marker": "NEW",
+      "title": "Utility Pack",
+      "version": "1.0.0.0"
     },
     "374125": {
       "last_marker": "",
@@ -3003,6 +3129,11 @@
     "374363": {
       "last_marker": "",
       "title": "Pronar T679",
+      "version": "1.0.0.0"
+    },
+    "374365": {
+      "last_marker": "NEW",
+      "title": "Work Light Control",
       "version": "1.0.0.0"
     },
     "374407": {
@@ -3138,9 +3269,9 @@
       "version": "1.0.0.0"
     },
     "374714": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Helper Profiles",
-      "version": "1.0.0.0"
+      "version": "2.1.2.0"
     },
     "374741": {
       "last_marker": "",
@@ -3171,6 +3302,11 @@
       "title": "Buy Leased Equipment",
       "version": "1.0.0.0"
     },
+    "374981": {
+      "last_marker": "NEW",
+      "title": "Universal Map Editor",
+      "version": "1.0.0.0"
+    },
     "374982": {
       "last_marker": "NEW",
       "title": "Lizard 5510 Tow Behind Wagon",
@@ -3192,13 +3328,18 @@
       "version": "1.0.0.0"
     },
     "375033": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Door Time Switch",
-      "version": "1.0.0.0"
+      "version": "1.1.0.0"
     },
     "375034": {
       "last_marker": "",
       "title": "Manure Heap Fix",
+      "version": "1.0.0.0"
+    },
+    "375042": {
+      "last_marker": "NEW",
+      "title": "Fertilize Converter Pack",
       "version": "1.0.0.0"
     },
     "375044": {
@@ -3267,9 +3408,9 @@
       "version": "1.0.0.0"
     },
     "375271": {
-      "last_marker": "NEW",
+      "last_marker": "UPDATE",
       "title": "Forage Harvester Pack",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "375278": {
       "last_marker": "",
@@ -3306,6 +3447,11 @@
       "title": "Bunker Silo Pack",
       "version": "1.0.0.0"
     },
+    "375503": {
+      "last_marker": "NEW",
+      "title": "Real Vehicle Dynamics",
+      "version": "1.0.0.0"
+    },
     "375504": {
       "last_marker": "",
       "title": "Tajfun 4T",
@@ -3314,6 +3460,11 @@
     "375533": {
       "last_marker": "",
       "title": "Folding Fan Gate",
+      "version": "1.0.0.0"
+    },
+    "375546": {
+      "last_marker": "NEW",
+      "title": "Schaeffer Loader 9660T",
       "version": "1.0.0.0"
     },
     "375571": {
@@ -3339,6 +3490,16 @@
     "375622": {
       "last_marker": "",
       "title": "CNH Balers",
+      "version": "1.0.0.0"
+    },
+    "375627": {
+      "last_marker": "NEW",
+      "title": "Real Power Harrow",
+      "version": "1.0.0.0"
+    },
+    "375638": {
+      "last_marker": "NEW",
+      "title": "Quick Save",
       "version": "1.0.0.0"
     },
     "375655": {
@@ -3470,6 +3631,11 @@
       "title": "MultiTask Mowers",
       "version": "1.0.0.0"
     },
+    "376211": {
+      "last_marker": "NEW",
+      "title": "Gothic Style Barn",
+      "version": "1.0.0.0"
+    },
     "376212": {
       "last_marker": "",
       "title": "Butterfly Portal",
@@ -3492,6 +3658,11 @@
     "376254": {
       "last_marker": "NEW",
       "title": "Pizza Production",
+      "version": "1.0.0.0"
+    },
+    "376288": {
+      "last_marker": "NEW",
+      "title": "Multi Blade",
       "version": "1.0.0.0"
     },
     "376292": {
@@ -3564,6 +3735,11 @@
       "title": "Massey Ferguson Beta 7360",
       "version": "1.0.0.0"
     },
+    "376398": {
+      "last_marker": "NEW",
+      "title": "Carre Rotanet Control",
+      "version": "1.0.0.0"
+    },
     "376405": {
       "last_marker": "",
       "title": "No Credit Limit",
@@ -3584,10 +3760,20 @@
       "title": "Custom Animal Food Recipes",
       "version": "1.0.0.0"
     },
-    "376594": {
+    "376547": {
       "last_marker": "NEW",
-      "title": "Briri FieldMaster 20",
+      "title": "Color Adjustment",
       "version": "1.0.0.0"
+    },
+    "376594": {
+      "last_marker": "UPDATE",
+      "title": "Briri FieldMaster 20",
+      "version": "1.0.0.1"
+    },
+    "376635": {
+      "last_marker": "NEW",
+      "title": "Deep Tillage: No Weeds After Sowing",
+      "version": "1.0.0.1"
     },
     "376639": {
       "last_marker": "",
@@ -3622,6 +3808,11 @@
     "376806": {
       "last_marker": "",
       "title": "Saphir MGS 300",
+      "version": "1.0.0.0"
+    },
+    "376849": {
+      "last_marker": "NEW",
+      "title": "Variable Tip Control",
       "version": "1.0.0.0"
     },
     "376864": {
@@ -3659,6 +3850,11 @@
       "title": "Production Pallet Manager",
       "version": "1.0.0.0"
     },
+    "376964": {
+      "last_marker": "NEW",
+      "title": "PnH Flow Control",
+      "version": "1.0.0.0"
+    },
     "376974": {
       "last_marker": "NEW",
       "title": "Golden Opportunities",
@@ -3667,6 +3863,11 @@
     "377058": {
       "last_marker": "NEW",
       "title": "Feed Mixer HUD",
+      "version": "1.0.0.0"
+    },
+    "377102": {
+      "last_marker": "NEW",
+      "title": "Plow Weed Regrowth",
       "version": "1.0.0.0"
     },
     "377160": {
@@ -3704,6 +3905,16 @@
       "title": "Grass Contracts",
       "version": "1.0.0.0"
     },
+    "377457": {
+      "last_marker": "NEW",
+      "title": "Log Storage Silo",
+      "version": "1.0.0.0"
+    },
+    "377505": {
+      "last_marker": "NEW",
+      "title": "Shed 12X6",
+      "version": "1.0.0.0"
+    },
     "377564": {
       "last_marker": "NEW",
       "title": "Schwarzmüller Walking-Floor Semitrailer",
@@ -3725,9 +3936,9 @@
       "version": "1.0.0.0"
     },
     "377721": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Hand Tool Drop",
-      "version": "1.0.0.0"
+      "version": "1.1.0.0"
     },
     "377758": {
       "last_marker": "NEW",
