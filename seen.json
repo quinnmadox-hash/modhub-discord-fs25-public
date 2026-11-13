@@ -311,6 +311,7 @@
     "368184",
     "368253",
     "368371",
+    "368477",
     "368559",
     "368560",
     "368619",
@@ -330,6 +331,7 @@
     "369642",
     "369653",
     "369692",
+    "369793",
     "369800",
     "369866",
     "369887",
@@ -371,6 +373,7 @@
     "371300",
     "371320",
     "371344",
+    "371378",
     "371386",
     "371409",
     "371432",
@@ -382,6 +385,7 @@
     "371504",
     "371610",
     "371639",
+    "371642",
     "371676",
     "371695",
     "371696",
@@ -578,6 +582,7 @@
     "374574",
     "374578",
     "374583",
+    "374585",
     "374602",
     "374628",
     "374629",
@@ -612,9 +617,12 @@
     "375151",
     "375170",
     "375184",
+    "375201",
     "375226",
     "375231",
     "375241",
+    "375242",
+    "375247",
     "375249",
     "375252",
     "375257",
@@ -625,10 +633,12 @@
     "375279",
     "375281",
     "375360",
+    "375362",
     "375407",
     "375419",
     "375432",
     "375449",
+    "375454",
     "375472",
     "375499",
     "375500",
@@ -665,6 +675,7 @@
     "375968",
     "376046",
     "376048",
+    "376065",
     "376132",
     "376137",
     "376143",
@@ -734,12 +745,14 @@
     "377134",
     "377138",
     "377160",
+    "377166",
     "377203",
     "377259",
     "377261",
     "377317",
     "377323",
     "377342",
+    "377408",
     "377438",
     "377457",
     "377505",
@@ -747,6 +760,7 @@
     "377581",
     "377599",
     "377620",
+    "377686",
     "377721",
     "377758",
     "377861",
@@ -754,11 +768,14 @@
     "378070",
     "378089",
     "378168",
+    "378372",
     "378382",
+    "378400",
     "378696",
     "378750",
     "378923",
-    "379052"
+    "379052",
+    "382502"
   ],
   "mods": {
     "303268": {
@@ -1626,9 +1643,9 @@
       "version": "1.2.0.0"
     },
     "351136": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Green Countryside",
-      "version": "1.2.0.1"
+      "version": "1.2.1.0"
     },
     "351173": {
       "last_marker": "UPDATE",
@@ -1761,9 +1778,9 @@
       "version": "1.0.1.2"
     },
     "355852": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Nordkirchen Map 4x",
-      "version": "1.0.0.2"
+      "version": "1.1.0.0"
     },
     "355980": {
       "title": "Lizard Parcel Locker Pack",
@@ -2234,7 +2251,7 @@
     "367754": {
       "last_marker": "UPDATE",
       "title": "Traffic Density Control",
-      "version": "1.0.2.0"
+      "version": "1.1.0.0"
     },
     "368021": {
       "last_marker": "",
@@ -2260,6 +2277,11 @@
       "last_marker": "",
       "title": "Better Outdoor Camera",
       "version": "1.0.0.0"
+    },
+    "368477": {
+      "last_marker": "UPDATE",
+      "title": "Factory Profit Calculator",
+      "version": "2.0.0.0"
     },
     "368559": {
       "last_marker": "",
@@ -2350,8 +2372,14 @@
       "version": "1.0.0.1"
     },
     "369692": {
+      "last_marker": "UPDATE",
       "title": "Configurable Sales",
-      "version": "1.0.1.0"
+      "version": "1.0.2.0"
+    },
+    "369793": {
+      "last_marker": "UPDATE",
+      "title": "Disable GPS (By Year)",
+      "version": "1.2.0.0"
     },
     "369800": {
       "last_marker": "",
@@ -2428,9 +2456,9 @@
       "version": "1.0.0.1"
     },
     "370425": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Dynamic Molehills",
-      "version": "1.0.0.2"
+      "version": "1.0.0.3"
     },
     "370461": {
       "last_marker": "",
@@ -2554,6 +2582,11 @@
       "title": "Lizard C-355, C-355M, C-360",
       "version": "1.0.0.0"
     },
+    "371378": {
+      "last_marker": "UPDATE",
+      "title": "Rust Wear Shader",
+      "version": "1.1.0.0"
+    },
     "371386": {
       "last_marker": "",
       "title": "Livestock Trailer Extension",
@@ -2605,6 +2638,11 @@
     },
     "371639": {
       "title": "PLC Tool Pack",
+      "version": "1.0.0.0"
+    },
+    "371642": {
+      "last_marker": "NEW",
+      "title": "LIZARD S208 / S214 / S227",
       "version": "1.0.0.0"
     },
     "371676": {
@@ -2760,7 +2798,7 @@
     "372197": {
       "last_marker": "UPDATE",
       "title": "Realistic Seeder",
-      "version": "1.0.1.0"
+      "version": "1.0.2.0"
     },
     "372216": {
       "title": "Old Shed",
@@ -3255,9 +3293,9 @@
       "version": "1.0.0.0"
     },
     "373913": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "VAT System",
-      "version": "1.0.0.0"
+      "version": "1.1.0.0"
     },
     "373914": {
       "last_marker": "",
@@ -3554,6 +3592,11 @@
       "title": "Livestock Flies",
       "version": "1.0.0.0"
     },
+    "374585": {
+      "last_marker": "NEW",
+      "title": "Large Storage Shed For Forage And Vehicles",
+      "version": "1.0.0.0"
+    },
     "374602": {
       "last_marker": "",
       "title": "Storage Nova Estancia",
@@ -3721,6 +3764,11 @@
       "title": "Lizard LogFlex 8HM",
       "version": "1.0.0.0"
     },
+    "375201": {
+      "last_marker": "NEW",
+      "title": "Straw Recycling",
+      "version": "1.0.0.0"
+    },
     "375226": {
       "last_marker": "UPDATE",
       "title": "Krasylivka",
@@ -3735,6 +3783,16 @@
       "last_marker": "UPDATE",
       "title": "CLAAS AXION 960-920",
       "version": "1.0.0.1"
+    },
+    "375242": {
+      "last_marker": "NEW",
+      "title": "Bio-Diesel Plant",
+      "version": "1.0.0.0"
+    },
+    "375247": {
+      "last_marker": "NEW",
+      "title": "Water Production",
+      "version": "1.0.0.0"
     },
     "375249": {
       "last_marker": "",
@@ -3786,6 +3844,11 @@
       "title": "Auto Leveler - Landscaping Terraformer, Slopes & Roads",
       "version": "1.1.0.0"
     },
+    "375362": {
+      "last_marker": "NEW",
+      "title": "Cooper S",
+      "version": "1.0.0.0"
+    },
     "375407": {
       "last_marker": "",
       "title": "TT FertiMAX",
@@ -3805,6 +3868,11 @@
       "last_marker": "",
       "title": "Old Blue Metal Gate",
       "version": "1.0.0.1"
+    },
+    "375454": {
+      "last_marker": "NEW",
+      "title": "Field Overview",
+      "version": "1.0.0.0"
     },
     "375472": {
       "last_marker": "UPDATE",
@@ -3984,6 +4052,11 @@
     "376048": {
       "last_marker": "NEW",
       "title": "Lizard RB2870",
+      "version": "1.0.0.0"
+    },
+    "376065": {
+      "last_marker": "NEW",
+      "title": "Small Dairy Production",
       "version": "1.0.0.0"
     },
     "376132": {
@@ -4235,9 +4308,9 @@
       "version": "1.0.0.0"
     },
     "376790": {
-      "last_marker": "NEW",
+      "last_marker": "UPDATE",
       "title": "Auto Farm Manager",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "376806": {
       "last_marker": "",
@@ -4329,6 +4402,11 @@
       "title": "Broadcast Seeding",
       "version": "1.0.0.0"
     },
+    "377166": {
+      "last_marker": "NEW",
+      "title": "Chopped Corn Flow",
+      "version": "1.0.0.0"
+    },
     "377203": {
       "last_marker": "UPDATE",
       "title": "Pöttinger JUMBO 8450 DBT",
@@ -4357,6 +4435,11 @@
     "377342": {
       "last_marker": "NEW",
       "title": "Elmers Chaser Bins 45T-60T",
+      "version": "1.0.0.0"
+    },
+    "377408": {
+      "last_marker": "NEW",
+      "title": "Chicken Coop Nova Estancia",
       "version": "1.0.0.0"
     },
     "377438": {
@@ -4394,6 +4477,11 @@
       "title": "Lizard SWT 7",
       "version": "1.0.0.0"
     },
+    "377686": {
+      "last_marker": "NEW",
+      "title": "Vehicle Selector",
+      "version": "1.0.0.0"
+    },
     "377721": {
       "last_marker": "",
       "title": "Hand Tool Drop",
@@ -4429,9 +4517,19 @@
       "title": "Sold Out",
       "version": "1.0.0.0"
     },
+    "378372": {
+      "last_marker": "NEW",
+      "title": "Bunker Silo Refill",
+      "version": "1.0.0.0"
+    },
     "378382": {
       "last_marker": "NEW",
       "title": "Winch Unlimited Trees",
+      "version": "1.0.0.0"
+    },
+    "378400": {
+      "last_marker": "NEW",
+      "title": "SiloPilot",
       "version": "1.0.0.0"
     },
     "378696": {
@@ -4452,6 +4550,11 @@
     "379052": {
       "last_marker": "",
       "title": "Rolland Rollspeed GT7850",
+      "version": "1.0.0.0"
+    },
+    "382502": {
+      "last_marker": "NEW",
+      "title": "In-Game ModHub",
       "version": "1.0.0.0"
     }
   }
