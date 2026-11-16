@@ -14,6 +14,7 @@
     "305105",
     "305352",
     "305784",
+    "306013",
     "306056",
     "306289",
     "306765",
@@ -21,6 +22,7 @@
     "306999",
     "307091",
     "307374",
+    "307427",
     "307431",
     "307472",
     "307474",
@@ -54,6 +56,7 @@
     "311932",
     "312156",
     "312417",
+    "313089",
     "313385",
     "313429",
     "313437",
@@ -72,6 +75,7 @@
     "315831",
     "315886",
     "316135",
+    "316411",
     "317282",
     "317391",
     "317552",
@@ -80,6 +84,7 @@
     "318060",
     "318501",
     "318525",
+    "318526",
     "318581",
     "319065",
     "319120",
@@ -106,6 +111,7 @@
     "327528",
     "327684",
     "328619",
+    "328853",
     "329586",
     "329599",
     "329608",
@@ -156,9 +162,11 @@
     "343328",
     "343366",
     "343640",
+    "343747",
     "343773",
     "343898",
     "344357",
+    "344606",
     "344736",
     "344811",
     "344814",
@@ -326,6 +334,7 @@
     "369086",
     "369342",
     "369346",
+    "369531",
     "369544",
     "369583",
     "369642",
@@ -337,6 +346,7 @@
     "369887",
     "369911",
     "369954",
+    "369987",
     "370049",
     "370094",
     "370142",
@@ -430,9 +440,11 @@
     "372319",
     "372370",
     "372429",
+    "372443",
     "372445",
     "372450",
     "372458",
+    "372470",
     "372474",
     "372499",
     "372512",
@@ -575,6 +587,7 @@
     "374481",
     "374500",
     "374527",
+    "374529",
     "374533",
     "374542",
     "374548",
@@ -698,6 +711,7 @@
     "376295",
     "376296",
     "376297",
+    "376311",
     "376313",
     "376320",
     "376323",
@@ -707,6 +721,7 @@
     "376364",
     "376368",
     "376382",
+    "376383",
     "376392",
     "376397",
     "376398",
@@ -771,6 +786,7 @@
     "378372",
     "378382",
     "378400",
+    "378421",
     "378696",
     "378750",
     "378923",
@@ -842,6 +858,11 @@
       "title": "Machine Storage",
       "version": "1.0.0.3"
     },
+    "306013": {
+      "last_marker": "UPDATE",
+      "title": "Salvage Halls Package",
+      "version": "1.3.0.0"
+    },
     "306056": {
       "last_marker": "",
       "title": "Strautmann Tera-Vitesse CFS 4601 DO",
@@ -874,6 +895,11 @@
     },
     "307374": {
       "title": "Krone Baler Pack",
+      "version": "1.1.0.0"
+    },
+    "307427": {
+      "last_marker": "UPDATE",
+      "title": "Industrial Sawmill",
       "version": "1.1.0.0"
     },
     "307431": {
@@ -1033,6 +1059,11 @@
       "title": "New Bartelshagen",
       "version": "2.0.0.0"
     },
+    "313089": {
+      "last_marker": "UPDATE",
+      "title": "Boosted Greenhouses",
+      "version": "1.0.0.2"
+    },
     "313385": {
       "last_marker": "",
       "title": "Fornier Tipping Trailer Pack",
@@ -1121,13 +1152,18 @@
       "title": "Alma, Missouri",
       "version": "1.1.0.2"
     },
+    "316411": {
+      "last_marker": "UPDATE",
+      "title": "Garage Menu",
+      "version": "1.0.0.5"
+    },
     "317282": {
       "last_marker": "",
       "title": "Valtra Valmet Series 8x50",
       "version": "1.0.0.9"
     },
     "317391": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "MAN TGE TSF-W",
       "version": "1.0.0.5"
     },
@@ -1159,6 +1195,11 @@
     "318525": {
       "last_marker": "",
       "title": "Tigo 100XR",
+      "version": "1.1.0.0"
+    },
+    "318526": {
+      "last_marker": "UPDATE",
+      "title": "VOLVO F Series",
       "version": "1.1.0.0"
     },
     "318581": {
@@ -1287,6 +1328,11 @@
       "title": "Dashboard Live",
       "version": "2.1.2.0"
     },
+    "328853": {
+      "last_marker": "UPDATE",
+      "title": "Cold Room Storage",
+      "version": "1.2.0.0"
+    },
     "329586": {
       "last_marker": "",
       "title": "Empty Template Maps Multifruit Pack",
@@ -1398,7 +1444,7 @@
       "version": "1.0.0.4"
     },
     "337028": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Mercedes Benz Trucks Unimog 5023 TLF3000/RW",
       "version": "1.0.0.6"
     },
@@ -1458,7 +1504,7 @@
       "version": "1.0.0.1"
     },
     "340411": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "RedField",
       "version": "3.0.0.0"
     },
@@ -1526,6 +1572,11 @@
       "title": "Pallet Storage",
       "version": "1.0.1.0"
     },
+    "343747": {
+      "last_marker": "UPDATE",
+      "title": "Feed Calculator",
+      "version": "1.0.0.6"
+    },
     "343773": {
       "last_marker": "",
       "title": "John Deere 7R",
@@ -1539,6 +1590,11 @@
       "last_marker": "UPDATE",
       "title": "PickUp Trailer",
       "version": "1.2.0.0"
+    },
+    "344606": {
+      "last_marker": "UPDATE",
+      "title": "Göweil Vario Master GoldEdition 2025",
+      "version": "1.0.2.0"
     },
     "344736": {
       "last_marker": "",
@@ -1614,9 +1670,9 @@
       "version": "1.0.0.1"
     },
     "348813": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "VOLVO FH16 MULTICUSTOM",
-      "version": "1.0.0.6"
+      "version": "1.0.0.7"
     },
     "349039": {
       "last_marker": "",
@@ -1663,7 +1719,7 @@
       "version": "1.1.0.0"
     },
     "351559": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Homeland",
       "version": "1.1.0.8"
     },
@@ -1769,9 +1825,9 @@
       "version": "1.7.0.0"
     },
     "355326": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "MF 8200",
-      "version": "1.2.0.0"
+      "version": "1.3.0.0"
     },
     "355345": {
       "title": "CLAAS Lexion 600-700 Series",
@@ -1913,7 +1969,7 @@
       "version": "1.0.7.1"
     },
     "360230": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Genesee County 4km",
       "version": "1.0.0.5"
     },
@@ -1936,14 +1992,14 @@
       "version": "1.0.0.1"
     },
     "360919": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Kindred Heart",
       "version": "1.0.0.1"
     },
     "360984": {
-      "last_marker": "",
-      "title": "VOLVO FH16 TANDEM",
-      "version": "1.0.0.6"
+      "last_marker": "UPDATE",
+      "title": "VOLVO FH16 TANDEM AUTOLOAD",
+      "version": "1.0.0.7"
     },
     "361360": {
       "last_marker": "",
@@ -2045,7 +2101,7 @@
       "version": "2.2.1.0"
     },
     "363429": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Holzach",
       "version": "1.0.0.4"
     },
@@ -2289,7 +2345,7 @@
       "version": "1.1.0.0"
     },
     "368560": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Glenleathann Multifruit",
       "version": "1.2.0.0"
     },
@@ -2352,6 +2408,11 @@
       "title": "Beuren",
       "version": "1.0.0.2"
     },
+    "369531": {
+      "last_marker": "UPDATE",
+      "title": "Tractor Terrain Dynamics",
+      "version": "1.0.3.8"
+    },
     "369544": {
       "last_marker": "",
       "title": "Dynamic Dealership",
@@ -2394,7 +2455,7 @@
     "369887": {
       "last_marker": "UPDATE",
       "title": "Small Soup Factory",
-      "version": "1.0.0.3"
+      "version": "1.0.0.4"
     },
     "369911": {
       "last_marker": "",
@@ -2406,15 +2467,20 @@
       "title": "Lizard Vairogs 1938",
       "version": "1.0.0.0"
     },
+    "369987": {
+      "last_marker": "UPDATE",
+      "title": "Steering Mode HUD",
+      "version": "1.0.0.1"
+    },
     "370049": {
       "last_marker": "",
       "title": "Idaho Tater Land",
       "version": "1.0.1.1"
     },
     "370094": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Central Pennsylvania Farming",
-      "version": "1.0.0.2"
+      "version": "1.0.0.3"
     },
     "370142": {
       "last_marker": "UPDATE",
@@ -2782,7 +2848,7 @@
       "version": "1.0.0.1"
     },
     "372170": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Section Control",
       "version": "1.0.0.0"
     },
@@ -2853,6 +2919,11 @@
       "title": "Drumard Farm Extended",
       "version": "1.0.0.0"
     },
+    "372443": {
+      "last_marker": "NEW",
+      "title": "Cold Storage",
+      "version": "1.0.0.0"
+    },
     "372445": {
       "last_marker": "",
       "title": "Mid Sugar Mill",
@@ -2866,6 +2937,11 @@
       "last_marker": "",
       "title": "Powertrain Upgrade",
       "version": "1.0.1.0"
+    },
+    "372470": {
+      "last_marker": "NEW",
+      "title": "Storage Shed",
+      "version": "1.0.0.0"
     },
     "372474": {
       "last_marker": "UPDATE",
@@ -3003,9 +3079,9 @@
       "version": "1.0.0.1"
     },
     "373110": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Origine France Seeds",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "373118": {
       "title": "50% Navigation HUD Map",
@@ -3188,7 +3264,7 @@
       "version": "1.0.0.0"
     },
     "373556": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Krampe BigBody 550 E",
       "version": "1.0.0.0"
     },
@@ -3343,9 +3419,9 @@
       "version": "1.0.0.1"
     },
     "374023": {
-      "last_marker": "",
-      "title": "Traktorsafe MTS / HTSP Front Weight Pack",
-      "version": "1.0.0.0"
+      "last_marker": "UPDATE",
+      "title": "Traktorsafe MTS | HTSP Front Weight Pack",
+      "version": "1.0.1.0"
     },
     "374024": {
       "last_marker": "",
@@ -3558,6 +3634,11 @@
       "title": "Oil Plant",
       "version": "1.0.0.0"
     },
+    "374529": {
+      "last_marker": "NEW",
+      "title": "Fendt 300 Vario Gen4",
+      "version": "1.0.0.0"
+    },
     "374533": {
       "last_marker": "",
       "title": "Bale Batch Tracker",
@@ -3705,9 +3786,9 @@
       "version": "1.0.0.0"
     },
     "375006": {
-      "last_marker": "NEW",
+      "last_marker": "UPDATE",
       "title": "Multi Forage Pack",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "375007": {
       "last_marker": "",
@@ -3732,7 +3813,7 @@
     "375042": {
       "last_marker": "UPDATE",
       "title": "Fertilize Converter Pack",
-      "version": "1.0.0.1"
+      "version": "1.0.0.2"
     },
     "375044": {
       "last_marker": "",
@@ -3770,7 +3851,7 @@
       "version": "1.0.0.0"
     },
     "375226": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Krasylivka",
       "version": "1.0.0.1"
     },
@@ -3815,7 +3896,7 @@
       "version": "1.0.0.0"
     },
     "375270": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Norwegian Forage Harvester Pack",
       "version": "1.0.0.1"
     },
@@ -4118,9 +4199,9 @@
       "version": "1.0.0.0"
     },
     "376251": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Massey Ferguson 9S",
-      "version": "1.0.0.0"
+      "version": "1.1.0.0"
     },
     "376254": {
       "last_marker": "",
@@ -4128,9 +4209,9 @@
       "version": "1.0.0.0"
     },
     "376273": {
-      "last_marker": "NEW",
+      "last_marker": "UPDATE",
       "title": "Lizard Cargobull Semi-Trailer G1",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "376288": {
       "last_marker": "",
@@ -4167,6 +4248,11 @@
       "title": "Dog Houses",
       "version": "1.0.0.0"
     },
+    "376311": {
+      "last_marker": "NEW",
+      "title": "Agri-Drone S-Series",
+      "version": "1.0.0.0"
+    },
     "376313": {
       "last_marker": "",
       "title": "First Person Cameras",
@@ -4198,7 +4284,7 @@
       "version": "1.0.0.0"
     },
     "376364": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Carre Econet SGI Pack",
       "version": "1.0.0.0"
     },
@@ -4210,6 +4296,11 @@
     "376382": {
       "last_marker": "NEW",
       "title": "CCM Forage Header System",
+      "version": "1.0.0.0"
+    },
+    "376383": {
+      "last_marker": "NEW",
+      "title": "Multi Greenhouse Pack",
       "version": "1.0.0.0"
     },
     "376392": {
@@ -4318,7 +4409,7 @@
       "version": "1.0.0.0"
     },
     "376841": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Local Market Events",
       "version": "1.0.0.0"
     },
@@ -4373,9 +4464,9 @@
       "version": "1.0.0.0"
     },
     "376974": {
-      "last_marker": "NEW",
+      "last_marker": "UPDATE",
       "title": "Golden Opportunities",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "377058": {
       "last_marker": "",
@@ -4393,7 +4484,7 @@
       "version": "1.2.0.0"
     },
     "377138": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Tax And Subsidy System",
       "version": "1.0.0.0"
     },
@@ -4468,9 +4559,9 @@
       "version": "1.0.0.0"
     },
     "377599": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Origine France Fertilizers",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "377620": {
       "last_marker": "",
@@ -4493,9 +4584,9 @@
       "version": "1.0.0.0"
     },
     "377861": {
-      "last_marker": "NEW",
+      "last_marker": "UPDATE",
       "title": "Gambrel Barn",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "378044": {
       "last_marker": "",
@@ -4530,6 +4621,11 @@
     "378400": {
       "last_marker": "NEW",
       "title": "SiloPilot",
+      "version": "1.0.0.0"
+    },
+    "378421": {
+      "last_marker": "NEW",
+      "title": "Global Combine Automation",
       "version": "1.0.0.0"
     },
     "378696": {
