@@ -30,6 +30,7 @@
     "307569",
     "307750",
     "308195",
+    "308285",
     "308377",
     "308465",
     "308787",
@@ -88,6 +89,7 @@
     "317391",
     "317552",
     "317682",
+    "317685",
     "317802",
     "317833",
     "318060",
@@ -101,6 +103,7 @@
     "319268",
     "320162",
     "320829",
+    "322154",
     "322508",
     "323208",
     "324469",
@@ -263,6 +266,7 @@
     "359627",
     "359767",
     "360044",
+    "360158",
     "360230",
     "360381",
     "360480",
@@ -312,6 +316,7 @@
     "365658",
     "365898",
     "365957",
+    "366058",
     "366174",
     "366477",
     "366544",
@@ -490,6 +495,7 @@
     "372914",
     "372924",
     "372955",
+    "372993",
     "373000",
     "373002",
     "373040",
@@ -520,6 +526,7 @@
     "373329",
     "373331",
     "373346",
+    "373357",
     "373360",
     "373366",
     "373412",
@@ -545,12 +552,14 @@
     "373702",
     "373704",
     "373742",
+    "373746",
     "373750",
     "373783",
     "373788",
     "373789",
     "373793",
     "373796",
+    "373797",
     "373802",
     "373832",
     "373833",
@@ -586,6 +595,7 @@
     "374157",
     "374171",
     "374186",
+    "374188",
     "374194",
     "374198",
     "374214",
@@ -610,6 +620,7 @@
     "374446",
     "374450",
     "374453",
+    "374477",
     "374481",
     "374500",
     "374527",
@@ -638,6 +649,7 @@
     "374844",
     "374898",
     "374937",
+    "374941",
     "374942",
     "374956",
     "374978",
@@ -676,6 +688,7 @@
     "375324",
     "375360",
     "375362",
+    "375386",
     "375407",
     "375419",
     "375432",
@@ -742,6 +755,7 @@
     "376296",
     "376297",
     "376311",
+    "376312",
     "376313",
     "376320",
     "376323",
@@ -786,6 +800,8 @@
     "376896",
     "376898",
     "376913",
+    "376934",
+    "376952",
     "376956",
     "376964",
     "376974",
@@ -803,11 +819,15 @@
     "377317",
     "377323",
     "377342",
+    "377354",
     "377408",
     "377438",
     "377457",
     "377505",
     "377507",
+    "377519",
+    "377525",
+    "377529",
     "377533",
     "377564",
     "377572",
@@ -815,17 +835,20 @@
     "377581",
     "377599",
     "377620",
+    "377621",
     "377644",
     "377686",
     "377704",
     "377705",
     "377721",
+    "377748",
     "377758",
     "377861",
     "378044",
     "378070",
     "378089",
     "378168",
+    "378267",
     "378372",
     "378382",
     "378400",
@@ -834,6 +857,7 @@
     "378750",
     "378923",
     "379052",
+    "379115",
     "379508",
     "380453",
     "380553",
@@ -982,6 +1006,11 @@
       "last_marker": "UPDATE",
       "title": "Lizard Golf Cart",
       "version": "1.0.1.0"
+    },
+    "308285": {
+      "last_marker": "UPDATE",
+      "title": "Enhanced Mixer Wagons",
+      "version": "1.0.2.0"
     },
     "308377": {
       "last_marker": "",
@@ -1264,6 +1293,11 @@
       "title": "Concrete Block Garage",
       "version": "1.1.0.0"
     },
+    "317685": {
+      "last_marker": "UPDATE",
+      "title": "Farm Skip",
+      "version": "1.0.0.1"
+    },
     "317802": {
       "last_marker": "UPDATE",
       "title": "Jeantil BR 24-32",
@@ -1326,6 +1360,11 @@
       "last_marker": "",
       "title": "Nordkirchen",
       "version": "1.4.0.0"
+    },
+    "322154": {
+      "last_marker": "UPDATE",
+      "title": "Jeantil BR 18-24",
+      "version": "1.1.0.0"
     },
     "322508": {
       "last_marker": "",
@@ -1846,9 +1885,9 @@
       "version": "1.1.0.0"
     },
     "351559": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Homeland",
-      "version": "1.1.0.8"
+      "version": "1.1.0.9"
     },
     "351641": {
       "title": "Gaher Metalic Tipping Trailer Pack",
@@ -2110,6 +2149,11 @@
       "title": "Lizard LogFlex 8XS",
       "version": "1.0.7.1"
     },
+    "360158": {
+      "last_marker": "UPDATE",
+      "title": "Fields Of Stories - Roleplay",
+      "version": "1.1.0.0"
+    },
     "360230": {
       "last_marker": "",
       "title": "Genesee County 4km",
@@ -2348,6 +2392,11 @@
       "last_marker": "UPDATE",
       "title": "Manitou MTL 635/737",
       "version": "2.0.0.0"
+    },
+    "366058": {
+      "last_marker": "UPDATE",
+      "title": "Farm Icon Color",
+      "version": "1.1.0.0"
     },
     "366174": {
       "last_marker": "UPDATE",
@@ -2962,9 +3011,9 @@
       "version": "1.0.0.1"
     },
     "371987": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Agro Realistic",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "371989": {
       "last_marker": "",
@@ -3212,6 +3261,11 @@
       "title": "CLAAS Cargos Pack",
       "version": "1.0.0.0"
     },
+    "372993": {
+      "last_marker": "NEW",
+      "title": "More Flours - Grains (Rye, Spelt, Triticale)",
+      "version": "1.0.0.0"
+    },
     "373000": {
       "title": "Rusty Building Supply",
       "version": "1.0.0.1"
@@ -3352,6 +3406,11 @@
       "title": "North American Trains",
       "version": "1.0.0.0"
     },
+    "373357": {
+      "last_marker": "",
+      "title": "Tin Man",
+      "version": "1.0.0.0"
+    },
     "373360": {
       "last_marker": "",
       "title": "Biomass Heating Plant",
@@ -3475,6 +3534,11 @@
       "title": "Milk Contract",
       "version": "1.0.0.0"
     },
+    "373746": {
+      "last_marker": "NEW",
+      "title": "Pöttinger MERGENTO F 4010 ALPIN",
+      "version": "1.0.0.0"
+    },
     "373750": {
       "last_marker": "",
       "title": "CLAAS Lexion 600-700 Series Gen2",
@@ -3503,6 +3567,11 @@
     "373796": {
       "last_marker": "",
       "title": "CLAAS CARGOS 750/760",
+      "version": "1.0.0.0"
+    },
+    "373797": {
+      "last_marker": "NEW",
+      "title": "Speed Limiter",
       "version": "1.0.0.0"
     },
     "373802": {
@@ -3546,9 +3615,9 @@
       "version": "1.0.0.0"
     },
     "373915": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Vehicle Inspection (HU)",
-      "version": "1.0.0.0"
+      "version": "1.1.0.0"
     },
     "373916": {
       "last_marker": "",
@@ -3678,6 +3747,11 @@
       "title": "Orenge Leveler",
       "version": "1.0.0.0"
     },
+    "374188": {
+      "last_marker": "NEW",
+      "title": "House",
+      "version": "1.0.0.0"
+    },
     "374194": {
       "last_marker": "",
       "title": "DirectTip",
@@ -3796,6 +3870,11 @@
       "title": "Lizard Gruber 2.7",
       "version": "1.0.0.0"
     },
+    "374477": {
+      "last_marker": "NEW",
+      "title": "Limeworks AFT",
+      "version": "1.0.0.0"
+    },
     "374481": {
       "last_marker": "",
       "title": "Vegetable Tipping",
@@ -3890,8 +3969,9 @@
       "version": "1.0.0.0"
     },
     "374666": {
+      "last_marker": "UPDATE",
       "title": "Production Booster System",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "374673": {
       "last_marker": "",
@@ -3932,6 +4012,11 @@
       "last_marker": "UPDATE",
       "title": "Light Assistant",
       "version": "1.0.1.0"
+    },
+    "374941": {
+      "last_marker": "NEW",
+      "title": "Universal Rake Control",
+      "version": "1.0.0.0"
     },
     "374942": {
       "title": "ASPÖCK Europoint III Rear Light",
@@ -4120,6 +4205,11 @@
     "375362": {
       "last_marker": "",
       "title": "Cooper S",
+      "version": "1.0.0.0"
+    },
+    "375386": {
+      "last_marker": "NEW",
+      "title": "Speed Memory",
       "version": "1.0.0.0"
     },
     "375407": {
@@ -4450,6 +4540,11 @@
       "title": "Agri-Drone S-Series",
       "version": "1.0.0.0"
     },
+    "376312": {
+      "last_marker": "NEW",
+      "title": "Bizon 4.20m Header Trailers",
+      "version": "1.0.0.0"
+    },
     "376313": {
       "last_marker": "",
       "title": "First Person Cameras",
@@ -4670,6 +4765,16 @@
       "title": "Weighbridge Tickets For Vehicle Scales",
       "version": "1.0.0.0"
     },
+    "376934": {
+      "last_marker": "NEW",
+      "title": "La Landaise",
+      "version": "1.0.0.0"
+    },
+    "376952": {
+      "last_marker": "NEW",
+      "title": "Phytosanitary Production Station",
+      "version": "1.0.0.0"
+    },
     "376956": {
       "last_marker": "NEW",
       "title": "Production Pallet Manager",
@@ -4755,6 +4860,11 @@
       "title": "Elmers Chaser Bins 45T-60T",
       "version": "1.0.0.0"
     },
+    "377354": {
+      "last_marker": "NEW",
+      "title": "Inside Cab Character Visible",
+      "version": "1.0.0.0"
+    },
     "377408": {
       "last_marker": "",
       "title": "Chicken Coop Nova Estancia",
@@ -4778,6 +4888,21 @@
     "377507": {
       "last_marker": "NEW",
       "title": "Plantable Trees",
+      "version": "1.0.0.0"
+    },
+    "377519": {
+      "last_marker": "NEW",
+      "title": "BetterSleep",
+      "version": "1.0.0.0"
+    },
+    "377525": {
+      "last_marker": "NEW",
+      "title": "Demmler TSM 230",
+      "version": "1.0.0.0"
+    },
+    "377529": {
+      "last_marker": "NEW",
+      "title": "FarmPool",
       "version": "1.0.0.0"
     },
     "377533": {
@@ -4815,6 +4940,11 @@
       "title": "Lizard SWT 7",
       "version": "1.0.0.0"
     },
+    "377621": {
+      "last_marker": "NEW",
+      "title": "Extended HUD",
+      "version": "1.0.0.0"
+    },
     "377644": {
       "last_marker": "NEW",
       "title": "Fendt Vario 700 Frontloader",
@@ -4840,6 +4970,11 @@
       "title": "Hand Tool Drop",
       "version": "1.1.0.0"
     },
+    "377748": {
+      "last_marker": "NEW",
+      "title": "High Pressure Washer Range Extender",
+      "version": "1.0.0.0"
+    },
     "377758": {
       "last_marker": "",
       "title": "Vehicle Renamer",
@@ -4861,13 +4996,18 @@
       "version": "1.0.0.0"
     },
     "378089": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Auto Camera Steering Pro",
-      "version": "1.0.0.0"
+      "version": "1.2.0.0"
     },
     "378168": {
       "last_marker": "",
       "title": "Sold Out",
+      "version": "1.0.0.0"
+    },
+    "378267": {
+      "last_marker": "NEW",
+      "title": "AnimalExchange",
       "version": "1.0.0.0"
     },
     "378372": {
@@ -4891,9 +5031,9 @@
       "version": "1.0.0.0"
     },
     "378696": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "RC World",
-      "version": "1.0.0.0"
+      "version": "1.1.0.0"
     },
     "378750": {
       "last_marker": "NEW",
@@ -4909,6 +5049,11 @@
       "last_marker": "UPDATE",
       "title": "Rolland Rollspeed GT7850",
       "version": "1.0.0.1"
+    },
+    "379115": {
+      "last_marker": "NEW",
+      "title": "Case A8800MR Extra",
+      "version": "1.0.0.0"
     },
     "379508": {
       "last_marker": "",
