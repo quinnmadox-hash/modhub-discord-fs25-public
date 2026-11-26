@@ -49,6 +49,7 @@
     "310703",
     "310861",
     "311130",
+    "311194",
     "311199",
     "311304",
     "311513",
@@ -62,6 +63,7 @@
     "311932",
     "312156",
     "312161",
+    "312186",
     "312417",
     "312695",
     "313022",
@@ -538,6 +540,7 @@
     "373454",
     "373456",
     "373494",
+    "373511",
     "373521",
     "373523",
     "373548",
@@ -737,6 +740,7 @@
     "376150",
     "376151",
     "376161",
+    "376173",
     "376185",
     "376211",
     "376212",
@@ -746,6 +750,7 @@
     "376251",
     "376254",
     "376273",
+    "376276",
     "376288",
     "376291",
     "376292",
@@ -782,6 +787,7 @@
     "376639",
     "376641",
     "376644",
+    "376678",
     "376682",
     "376703",
     "376730",
@@ -805,6 +811,7 @@
     "376956",
     "376964",
     "376974",
+    "376989",
     "377058",
     "377068",
     "377102",
@@ -821,7 +828,9 @@
     "377342",
     "377354",
     "377408",
+    "377431",
     "377438",
+    "377453",
     "377457",
     "377505",
     "377507",
@@ -830,6 +839,7 @@
     "377529",
     "377533",
     "377564",
+    "377566",
     "377572",
     "377574",
     "377581",
@@ -849,13 +859,16 @@
     "378089",
     "378168",
     "378267",
+    "378347",
     "378372",
     "378382",
     "378400",
     "378421",
+    "378555",
     "378696",
     "378750",
     "378923",
+    "378961",
     "379052",
     "379115",
     "379508",
@@ -993,7 +1006,7 @@
       "version": "1.2.0.1"
     },
     "307569": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Steel Sheds Pack",
       "version": "1.0.0.3"
     },
@@ -1003,7 +1016,7 @@
       "version": "1.2.0.0"
     },
     "308195": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Lizard Golf Cart",
       "version": "1.0.1.0"
     },
@@ -1099,6 +1112,11 @@
       "title": "Metal Garage",
       "version": "1.1.1.0"
     },
+    "311194": {
+      "last_marker": "UPDATE",
+      "title": "Kotte Garant PTR Pack",
+      "version": "1.1.0.0"
+    },
     "311199": {
       "last_marker": "",
       "title": "FrechDachs Map 4x",
@@ -1160,13 +1178,18 @@
       "title": "GreenHouse Wood",
       "version": "1.0.0.3"
     },
+    "312186": {
+      "last_marker": "UPDATE",
+      "title": "Dark Forest The Final Chapter",
+      "version": "1.0.0.1"
+    },
     "312417": {
       "last_marker": "",
       "title": "New Bartelshagen",
       "version": "2.0.0.0"
     },
     "312695": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Krone BigM",
       "version": "1.1.0.0"
     },
@@ -1299,7 +1322,7 @@
       "version": "1.0.0.1"
     },
     "317802": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Jeantil BR 24-32",
       "version": "1.1.0.0"
     },
@@ -1460,7 +1483,7 @@
       "version": "1.0.0.2"
     },
     "328140": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "New Horizon Farm",
       "version": "1.3.0.0"
     },
@@ -1600,7 +1623,7 @@
       "version": "1.0.0.6"
     },
     "337082": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Geistal",
       "version": "1.5.1.0"
     },
@@ -1822,7 +1845,7 @@
       "version": "2.1.2.0"
     },
     "347723": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Sunflower Farm & Market Pack",
       "version": "1.0.0.3"
     },
@@ -1851,7 +1874,7 @@
       "version": "1.1.2.0"
     },
     "350173": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "MAN TGS TG3 Trucks",
       "version": "1.0.0.5"
     },
@@ -2005,9 +2028,9 @@
       "version": "1.1.0.0"
     },
     "355852": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Nordkirchen Map 4x",
-      "version": "1.1.0.0"
+      "version": "1.1.0.1"
     },
     "355980": {
       "title": "Lizard Parcel Locker Pack",
@@ -2062,7 +2085,7 @@
       "version": "1.0.0.4"
     },
     "357332": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Forest Hills",
       "version": "2.0.0.0"
     },
@@ -3465,6 +3488,11 @@
       "title": "Krajow And Lazniki",
       "version": "1.0.0.0"
     },
+    "373511": {
+      "last_marker": "NEW",
+      "title": "John Deere 8R (2016-2018) EU Series",
+      "version": "1.0.0.0"
+    },
     "373521": {
       "last_marker": "NEW",
       "title": "Brantner Power Push 34090 Plus",
@@ -3510,9 +3538,9 @@
       "version": "1.0.0.0"
     },
     "373637": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Capacity Upgrade",
-      "version": "1.0.0.0"
+      "version": "1.1.0.0"
     },
     "373678": {
       "last_marker": "",
@@ -3635,7 +3663,7 @@
       "version": "1.0.0.0"
     },
     "373944": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Rice Drying",
       "version": "1.0.0.0"
     },
@@ -4098,7 +4126,7 @@
       "version": "1.0.0.0"
     },
     "375158": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Farm Product Factory",
       "version": "1.0.0.0"
     },
@@ -4193,7 +4221,7 @@
       "version": "1.0.0.0"
     },
     "375324": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Medium UK Cow Barn",
       "version": "1.0.0.0"
     },
@@ -4233,7 +4261,7 @@
       "version": "1.0.0.1"
     },
     "375454": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Field Overview",
       "version": "1.0.0.1"
     },
@@ -4451,6 +4479,11 @@
       "title": "Farmtech DDK 2400",
       "version": "1.0.0.0"
     },
+    "376173": {
+      "last_marker": "NEW",
+      "title": "Oven For Cookie And Bread",
+      "version": "1.0.0.0"
+    },
     "376185": {
       "last_marker": "",
       "title": "MultiTask Mowers",
@@ -4495,13 +4528,18 @@
       "title": "Lizard Cargobull Semi-Trailer G1",
       "version": "1.0.0.1"
     },
+    "376276": {
+      "last_marker": "NEW",
+      "title": "AI Stubble Destruction",
+      "version": "1.0.0.0"
+    },
     "376288": {
       "last_marker": "",
       "title": "Multi Blade",
       "version": "1.0.0.0"
     },
     "376291": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Fillable Tanks",
       "version": "1.0.0.0"
     },
@@ -4571,7 +4609,7 @@
       "version": "1.0.0.0"
     },
     "376345": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Valtra A Series",
       "version": "1.0.0.0"
     },
@@ -4671,8 +4709,13 @@
       "version": "1.0.0.0"
     },
     "376644": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "John Deere 4830 Sprayer",
+      "version": "1.0.0.0"
+    },
+    "376678": {
+      "last_marker": "NEW",
+      "title": "Radio Player",
       "version": "1.0.0.0"
     },
     "376682": {
@@ -4721,7 +4764,7 @@
       "version": "1.0.0.0"
     },
     "376849": {
-      "last_marker": "UPDATE",
+      "last_marker": "",
       "title": "Variable Tip Control",
       "version": "1.0.0.1"
     },
@@ -4790,13 +4833,18 @@
       "title": "Golden Opportunities",
       "version": "1.0.0.1"
     },
+    "376989": {
+      "last_marker": "NEW",
+      "title": "Fendt 720 - 728 Vario",
+      "version": "1.0.0.0"
+    },
     "377058": {
       "last_marker": "",
       "title": "Feed Mixer HUD",
       "version": "1.0.0.0"
     },
     "377068": {
-      "last_marker": "NEW",
+      "last_marker": "",
       "title": "Disable Auto Wipers",
       "version": "1.0.0.0"
     },
@@ -4870,9 +4918,19 @@
       "title": "Chicken Coop Nova Estancia",
       "version": "1.0.0.0"
     },
+    "377431": {
+      "last_marker": "NEW",
+      "title": "Kroeger HKD 302 Old",
+      "version": "1.0.0.0"
+    },
     "377438": {
       "last_marker": "",
       "title": "Grass Contracts",
+      "version": "1.0.0.0"
+    },
+    "377453": {
+      "last_marker": "NEW",
+      "title": "Tedder Optimisation Package",
       "version": "1.0.0.0"
     },
     "377457": {
@@ -4913,6 +4971,11 @@
     "377564": {
       "last_marker": "NEW",
       "title": "Schwarzmüller Walking-Floor Semitrailer",
+      "version": "1.0.0.0"
+    },
+    "377566": {
+      "last_marker": "NEW",
+      "title": "Old Animal Barn",
       "version": "1.0.0.0"
     },
     "377572": {
@@ -5010,6 +5073,11 @@
       "title": "AnimalExchange",
       "version": "1.0.0.0"
     },
+    "378347": {
+      "last_marker": "NEW",
+      "title": "Tonnes",
+      "version": "1.0.0.0"
+    },
     "378372": {
       "last_marker": "",
       "title": "Bunker Silo Refill",
@@ -5030,6 +5098,11 @@
       "title": "Global Combine Automation",
       "version": "1.0.0.0"
     },
+    "378555": {
+      "last_marker": "NEW",
+      "title": "Smart Storage Hub",
+      "version": "1.0.0.0"
+    },
     "378696": {
       "last_marker": "UPDATE",
       "title": "RC World",
@@ -5043,6 +5116,11 @@
     "378923": {
       "last_marker": "",
       "title": "Precision Farming Liquid Lime Fix",
+      "version": "1.0.0.0"
+    },
+    "378961": {
+      "last_marker": "NEW",
+      "title": "Harvester Fill Monitor",
       "version": "1.0.0.0"
     },
     "379052": {
