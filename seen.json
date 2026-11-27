@@ -14,6 +14,7 @@
     "305105",
     "305352",
     "305784",
+    "305810",
     "306013",
     "306056",
     "306289",
@@ -48,6 +49,7 @@
     "310629",
     "310703",
     "310861",
+    "311035",
     "311130",
     "311194",
     "311199",
@@ -66,8 +68,10 @@
     "312186",
     "312417",
     "312695",
+    "313020",
     "313022",
     "313089",
+    "313252",
     "313385",
     "313429",
     "313437",
@@ -103,11 +107,13 @@
     "319120",
     "319234",
     "319268",
+    "319501",
     "320162",
     "320829",
     "322154",
     "322508",
     "323208",
+    "324182",
     "324469",
     "324580",
     "324842",
@@ -140,12 +146,14 @@
     "332840",
     "333262",
     "333567",
+    "333576",
     "333975",
     "334353",
     "334477",
     "334531",
     "334714",
     "334795",
+    "335225",
     "335394",
     "335646",
     "336087",
@@ -176,7 +184,9 @@
     "341829",
     "342234",
     "342332",
+    "342396",
     "342491",
+    "342529",
     "342831",
     "343326",
     "343328",
@@ -217,9 +227,11 @@
     "351641",
     "351661",
     "351941",
+    "352048",
     "352087",
     "352377",
     "352682",
+    "352971",
     "353449",
     "353534",
     "353657",
@@ -237,6 +249,7 @@
     "355320",
     "355326",
     "355345",
+    "355717",
     "355755",
     "355852",
     "355980",
@@ -288,6 +301,7 @@
     "362071",
     "362332",
     "362333",
+    "362407",
     "362556",
     "362626",
     "362785",
@@ -330,6 +344,7 @@
     "366793",
     "366960",
     "367048",
+    "367175",
     "367299",
     "367320",
     "367391",
@@ -560,6 +575,7 @@
     "373783",
     "373788",
     "373789",
+    "373790",
     "373793",
     "373796",
     "373797",
@@ -649,6 +665,7 @@
     "374691",
     "374714",
     "374741",
+    "374837",
     "374844",
     "374898",
     "374937",
@@ -731,6 +748,7 @@
     "375924",
     "375950",
     "375968",
+    "375985",
     "376046",
     "376048",
     "376065",
@@ -783,6 +801,7 @@
     "376538",
     "376547",
     "376594",
+    "376632",
     "376635",
     "376639",
     "376641",
@@ -821,6 +840,7 @@
     "377160",
     "377166",
     "377203",
+    "377243",
     "377259",
     "377261",
     "377317",
@@ -830,11 +850,13 @@
     "377408",
     "377431",
     "377438",
+    "377446",
     "377453",
     "377457",
     "377505",
     "377507",
     "377519",
+    "377521",
     "377525",
     "377529",
     "377533",
@@ -854,9 +876,12 @@
     "377748",
     "377758",
     "377861",
+    "377904",
+    "377918",
     "378044",
     "378070",
     "378089",
+    "378149",
     "378168",
     "378267",
     "378347",
@@ -864,14 +889,18 @@
     "378382",
     "378400",
     "378421",
+    "378494",
     "378555",
+    "378658",
     "378696",
     "378750",
+    "378823",
     "378923",
     "378961",
     "379052",
     "379115",
     "379508",
+    "380142",
     "380453",
     "380553",
     "380567",
@@ -941,6 +970,11 @@
       "last_marker": "",
       "title": "Machine Storage",
       "version": "1.0.0.3"
+    },
+    "305810": {
+      "last_marker": "UPDATE",
+      "title": "Lizard Logger",
+      "version": "1.0.1.0"
     },
     "306013": {
       "last_marker": "",
@@ -1107,6 +1141,11 @@
       "title": "VIP Order Manager",
       "version": "1.2.2.0"
     },
+    "311035": {
+      "last_marker": "UPDATE",
+      "title": "PLN Plows Pack",
+      "version": "1.0.0.2"
+    },
     "311130": {
       "last_marker": "",
       "title": "Metal Garage",
@@ -1193,6 +1232,11 @@
       "title": "Krone BigM",
       "version": "1.1.0.0"
     },
+    "313020": {
+      "last_marker": "UPDATE",
+      "title": "Collect900 For Sugarcane And Poplar",
+      "version": "1.0.1.0"
+    },
     "313022": {
       "last_marker": "",
       "title": "Drain",
@@ -1203,10 +1247,15 @@
       "title": "Boosted Greenhouses",
       "version": "1.0.0.2"
     },
+    "313252": {
+      "last_marker": "UPDATE",
+      "title": "Lizard AgriFlex SPB",
+      "version": "1.1.0.3"
+    },
     "313385": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Fornier Tipping Trailer Pack",
-      "version": "2.0.0.0"
+      "version": "2.0.0.1"
     },
     "313429": {
       "last_marker": "UPDATE",
@@ -1374,6 +1423,11 @@
       "title": "Metal Canopy",
       "version": "1.0.0.1"
     },
+    "319501": {
+      "last_marker": "UPDATE",
+      "title": "Def MOD Pack",
+      "version": "1.3.0.0"
+    },
     "320162": {
       "last_marker": "UPDATE",
       "title": "Lizard Bulk-Liquid Silo & Trailer Pack",
@@ -1398,6 +1452,11 @@
       "last_marker": "",
       "title": "Fendt Farmer 300 C/Ci",
       "version": "1.1.0.0"
+    },
+    "324182": {
+      "last_marker": "UPDATE",
+      "title": "Bergmann GTW 430",
+      "version": "1.1.0.1"
     },
     "324469": {
       "last_marker": "",
@@ -1556,6 +1615,11 @@
       "title": "Lizard Unifire LF8/6",
       "version": "1.3.0.1"
     },
+    "333576": {
+      "last_marker": "UPDATE",
+      "title": "Hazelnut Farms",
+      "version": "1.0.0.2"
+    },
     "333975": {
       "last_marker": "",
       "title": "Pöttinger FARO Pack",
@@ -1584,6 +1648,11 @@
       "last_marker": "UPDATE",
       "title": "Multiplayer Vehicle Keys",
       "version": "1.0.1.0"
+    },
+    "335225": {
+      "last_marker": "UPDATE",
+      "title": "KRONE ActiveMow Pack",
+      "version": "2.0.0.0"
     },
     "335394": {
       "title": "Namyslo Milan",
@@ -1726,10 +1795,20 @@
       "title": "Advanced Silage Types",
       "version": "1.4.0.1"
     },
+    "342396": {
+      "last_marker": "UPDATE",
+      "title": "Lizard Snow Pusher",
+      "version": "1.3.0.0"
+    },
     "342491": {
       "last_marker": "UPDATE",
       "title": "Wood-Biogas",
       "version": "1.1.1.2"
+    },
+    "342529": {
+      "last_marker": "UPDATE",
+      "title": "Randon Bulk Carrier Heavy",
+      "version": "1.0.1.0"
     },
     "342831": {
       "last_marker": "UPDATE",
@@ -1926,6 +2005,11 @@
       "title": "Vast Country",
       "version": "1.0.0.4"
     },
+    "352048": {
+      "last_marker": "UPDATE",
+      "title": "Solek",
+      "version": "1.2.0.0"
+    },
     "352087": {
       "last_marker": "UPDATE",
       "title": "Adjust Production Points",
@@ -1940,6 +2024,11 @@
       "last_marker": "",
       "title": "Storage Dialog Plus",
       "version": "1.1.0.0"
+    },
+    "352971": {
+      "last_marker": "UPDATE",
+      "title": "Selfmade Weight",
+      "version": "1.0.0.1"
     },
     "353449": {
       "last_marker": "",
@@ -2021,6 +2110,11 @@
     "355345": {
       "title": "CLAAS Lexion 600-700 Series",
       "version": "1.0.1.2"
+    },
+    "355717": {
+      "last_marker": "UPDATE",
+      "title": "Cistern",
+      "version": "1.1.0.0"
     },
     "355755": {
       "last_marker": "",
@@ -2269,6 +2363,11 @@
       "title": "Vehicle Trade In",
       "version": "1.0.0.2"
     },
+    "362407": {
+      "last_marker": "UPDATE",
+      "title": "Rangler Unlimited 4x4",
+      "version": "2.0.0.0"
+    },
     "362556": {
       "last_marker": "",
       "title": "Minimap Plus",
@@ -2473,6 +2572,11 @@
     "367048": {
       "title": "Adjustable Fill Level Advanced",
       "version": "1.1.0.0"
+    },
+    "367175": {
+      "last_marker": "UPDATE",
+      "title": "Economic History",
+      "version": "1.0.0.2"
     },
     "367299": {
       "last_marker": "",
@@ -2687,9 +2791,9 @@
       "version": "1.0.0.1"
     },
     "369954": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Lizard Vairogs 1938",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "369987": {
       "last_marker": "",
@@ -3450,9 +3554,9 @@
       "version": "1.0.0.0"
     },
     "373421": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Lieshof 4x Map",
-      "version": "1.0.1.0"
+      "version": "1.1.0.0"
     },
     "373433": {
       "last_marker": "",
@@ -3585,6 +3689,11 @@
     "373789": {
       "last_marker": "",
       "title": "11kW Wallbox",
+      "version": "1.0.0.0"
+    },
+    "373790": {
+      "last_marker": "NEW",
+      "title": "MAN TGS 26.500 ITrunner",
       "version": "1.0.0.0"
     },
     "373793": {
@@ -4026,6 +4135,11 @@
       "title": "Sheep Goat Barn With Bale Storage",
       "version": "1.0.0.0"
     },
+    "374837": {
+      "last_marker": "NEW",
+      "title": "Same-Lamborghini-Hurlimann 150-190HP",
+      "version": "1.0.0.0"
+    },
     "374844": {
       "last_marker": "",
       "title": "Old Wooden Bavarian Hall With Hayloft",
@@ -4435,6 +4549,11 @@
       "title": "Loan Step Modifier",
       "version": "1.0.0.0"
     },
+    "375985": {
+      "last_marker": "NEW",
+      "title": "Selectable Four Wheel Drive",
+      "version": "1.0.0.0"
+    },
     "376046": {
       "last_marker": "NEW",
       "title": "Igland RB2870",
@@ -4554,9 +4673,9 @@
       "version": "1.0.0.0"
     },
     "376294": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Grain Containers",
-      "version": "1.0.0.0"
+      "version": "2.0.0.0"
     },
     "376295": {
       "last_marker": "",
@@ -4693,15 +4812,20 @@
       "title": "Briri FieldMaster 20",
       "version": "1.0.0.1"
     },
+    "376632": {
+      "last_marker": "NEW",
+      "title": "Fortschritt B-187 Attachment-Bedplow",
+      "version": "1.0.0.0"
+    },
     "376635": {
       "last_marker": "",
       "title": "Deep Tillage: No Weeds After Sowing",
       "version": "1.0.0.1"
     },
     "376639": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "Brochard EV 2200 70",
-      "version": "1.0.0.0"
+      "version": "1.1.0.0"
     },
     "376641": {
       "last_marker": "NEW",
@@ -4709,9 +4833,9 @@
       "version": "1.0.0.0"
     },
     "376644": {
-      "last_marker": "",
+      "last_marker": "UPDATE",
       "title": "John Deere 4830 Sprayer",
-      "version": "1.0.0.0"
+      "version": "1.0.0.1"
     },
     "376678": {
       "last_marker": "NEW",
@@ -4883,6 +5007,11 @@
       "title": "Pöttinger JUMBO 8450 DBT",
       "version": "1.0.0.1"
     },
+    "377243": {
+      "last_marker": "NEW",
+      "title": "Skoda Fabia",
+      "version": "1.0.0.0"
+    },
     "377259": {
       "last_marker": "",
       "title": "Platform Headertrailer",
@@ -4928,6 +5057,11 @@
       "title": "Grass Contracts",
       "version": "1.0.0.0"
     },
+    "377446": {
+      "last_marker": "NEW",
+      "title": "Vicon Fanex 1124",
+      "version": "1.0.0.0"
+    },
     "377453": {
       "last_marker": "NEW",
       "title": "Tedder Optimisation Package",
@@ -4951,6 +5085,11 @@
     "377519": {
       "last_marker": "NEW",
       "title": "BetterSleep",
+      "version": "1.0.0.0"
+    },
+    "377521": {
+      "last_marker": "NEW",
+      "title": "KRONE VariPack V 190 XC Plus",
       "version": "1.0.0.0"
     },
     "377525": {
@@ -5048,6 +5187,16 @@
       "title": "Gambrel Barn",
       "version": "1.0.0.1"
     },
+    "377904": {
+      "last_marker": "NEW",
+      "title": "Taxi Driver Job",
+      "version": "1.0.0.0"
+    },
+    "377918": {
+      "last_marker": "NEW",
+      "title": "Man TGS 18.500",
+      "version": "1.0.0.0"
+    },
     "378044": {
       "last_marker": "",
       "title": "Production Revamp",
@@ -5062,6 +5211,11 @@
       "last_marker": "UPDATE",
       "title": "Auto Camera Steering Pro",
       "version": "1.2.0.0"
+    },
+    "378149": {
+      "last_marker": "NEW",
+      "title": "Selfbuilt Farm Trailers",
+      "version": "1.0.0.0"
     },
     "378168": {
       "last_marker": "",
@@ -5098,9 +5252,19 @@
       "title": "Global Combine Automation",
       "version": "1.0.0.0"
     },
+    "378494": {
+      "last_marker": "NEW",
+      "title": "John Deere 7810 2WD",
+      "version": "1.0.0.0"
+    },
     "378555": {
       "last_marker": "NEW",
       "title": "Smart Storage Hub",
+      "version": "1.0.0.0"
+    },
+    "378658": {
+      "last_marker": "NEW",
+      "title": "Remember Settings Scroll",
       "version": "1.0.0.0"
     },
     "378696": {
@@ -5112,6 +5276,11 @@
       "last_marker": "NEW",
       "title": "FNT Livemap",
       "version": "1.0.1.0"
+    },
+    "378823": {
+      "last_marker": "NEW",
+      "title": "Demco 22 Series Grain Carts",
+      "version": "1.0.0.0"
     },
     "378923": {
       "last_marker": "",
@@ -5136,6 +5305,11 @@
     "379508": {
       "last_marker": "",
       "title": "Enhanced Plantage/Orchard Tool",
+      "version": "1.0.0.0"
+    },
+    "380142": {
+      "last_marker": "NEW",
+      "title": "Lode King Containers Super-B",
       "version": "1.0.0.0"
     },
     "380453": {
